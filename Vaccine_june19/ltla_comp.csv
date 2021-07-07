@@ -1,0 +1,305 @@
+"","second_dose","rank_group","pop","location","region","score"
+"1",0.6132,3,93663,"Hartlepool","North East",35.037
+"2",0.5565,3,140980,"Middlesbrough","North East",40.46
+"3",0.6818,3,137150,"Redcar and Cleveland","North East",29.792
+"4",0.6138,3,197348,"Stockton-on-Tees","North East",25.79
+"5",0.6131,3,106803,"Darlington","North East",25.657
+"6",0.6233,3,129410,"Halton","North West",32.325
+"7",0.6277,2,210014,"Warrington","North West",18.942
+"8",0.5239,3,149696,"Blackburn with Darwen","North West",36.013
+"9",0.6374,3,139446,"Blackpool","North West",45.039
+"10",0.535,3,259778,"Kingston upon Hull, City of","Yorkshire and The Humber",40.564
+"11",0.6922,2,341173,"East Riding of Yorkshire","Yorkshire and The Humber",15.605
+"12",0.6137,3,159563,"North East Lincolnshire","Yorkshire and The Humber",31.335
+"13",0.6525,2,172292,"North Lincolnshire","Yorkshire and The Humber",22.096
+"14",0.5372,1,210618,"York","Yorkshire and The Humber",11.727
+"15",0.5699,3,257302,"Derby","East Midlands",26.323
+"16",0.4654,3,354224,"Leicester","East Midlands",30.877
+"17",0.6844,1,39927,"Rutland","East Midlands",8.381
+"18",0.3946,3,332900,"Nottingham","East Midlands",34.891
+"19",0.6385,2,192801,"Herefordshire, County of","West Midlands",18.89
+"20",0.5942,3,179854,"Telford and Wrekin","West Midlands",24.988
+"21",0.5771,3,256375,"Stoke-on-Trent","West Midlands",34.504
+"22",0.5497,1,193282,"Bath and North East Somerset","South West",11.745
+"23",0.4547,3,463377,"Bristol, City of","South West",26.363
+"24",0.6685,2,215052,"North Somerset","South West",15.825
+"25",0.5973,1,285093,"South Gloucestershire","South West",11.66
+"26",0.5805,3,262100,"Plymouth","South West",26.619
+"27",0.6847,3,136264,"Torbay","South West",28.104
+"28",0.5686,2,222193,"Swindon","South West",18.622
+"29",0.4566,3,202259,"Peterborough","East of England",27.821
+"30",0.421,3,213052,"Luton","East of England",25.908
+"31",0.6066,2,183125,"Southend-on-Sea","East of England",22.375
+"32",0.5288,2,174341,"Thurrock","East of England",20.928
+"33",0.5661,3,278556,"Medway","South East",23.936
+"34",0.5554,1,122549,"Bracknell Forest","South East",10.241
+"35",0.613,1,158450,"West Berkshire","South East",9.952
+"36",0.4093,2,161780,"Reading","South East",19.619
+"37",0.4603,3,149539,"Slough","South East",22.965
+"38",0.6119,1,151422,"Windsor and Maidenhead","South East",8.376
+"39",0.5827,1,171119,"Wokingham","South East",5.846
+"40",0.5208,2,269457,"Milton Keynes","South East",17.98
+"41",0.4624,2,290885,"Brighton and Hove","South East",20.761
+"42",0.5339,3,214905,"Portsmouth","South East",26.899
+"43",0.4646,3,252520,"Southampton","South East",26.876
+"44",0.7068,3,141771,"Isle of Wight","South East",23.294
+"45",0.6352,3,530094,"County Durham","North East",26.793
+"46",0.6547,1,384152,"Cheshire East","North West",14.475
+"47",0.6283,2,343071,"Cheshire West and Chester","North West",18.083
+"48",0.6769,2,323136,"Shropshire","West Midlands",17.153
+"49",0.6539,3,569578,"Cornwall and Isles of Scilly","South West",23.072
+"50",0.6256,1,500024,"Wiltshire","South West",13.447
+"51",0.5438,2,173292,"Bedford","East of England",18.932
+"52",0.6128,1,288648,"Central Bedfordshire","East of England",12.152
+"53",0.7062,2,322434,"Northumberland","North East",22.079
+"54",0.6073,2,395331,"Bournemouth, Christchurch and Poole","South West",18.173
+"55",0.7319,2,378508,"Dorset","South West",15.735
+"56",0.3498,2,124798,"Cambridge","East of England",14.855
+"57",0.6318,1,89840,"East Cambridgeshire","East of England",11.507
+"58",0.6128,3,101850,"Fenland","East of England",25.426
+"59",0.6348,1,177963,"Huntingdonshire","East of England",12.55
+"60",0.6228,1,159086,"South Cambridgeshire","East of England",8.496
+"61",0.7482,3,97761,"Allerdale","North West",22.938
+"62",0.6437,3,67049,"Barrow-in-Furness","North West",31.117
+"63",0.6416,2,108678,"Carlisle","North West",21.997
+"64",0.6947,3,68183,"Copeland","North West",25.012
+"65",0.701,2,53253,"Eden","North West",16.328
+"66",0.6948,1,105088,"South Lakeland","North West",12.501
+"67",0.7081,2,128147,"Amber Valley","East Midlands",17.97
+"68",0.6712,3,80562,"Bolsover","East Midlands",25.047
+"69",0.7064,3,104900,"Chesterfield","East Midlands",24.926
+"70",0.7245,1,72325,"Derbyshire Dales","East Midlands",11.895
+"71",0.6601,2,115371,"Erewash","East Midlands",18.818
+"72",0.6997,2,92666,"High Peak","East Midlands",15.642
+"73",0.743,2,101462,"North East Derbyshire","East Midlands",17.399
+"74",0.6792,1,107261,"South Derbyshire","East Midlands",14.494
+"75",0.6981,1,146284,"East Devon","South West",12.764
+"76",0.5034,2,131405,"Exeter","South West",16.215
+"77",0.6671,2,82311,"Mid Devon","South West",16.928
+"78",0.6469,2,97145,"North Devon","South West",20.559
+"79",0.6847,1,87004,"South Hams","South West",13.724
+"80",0.6999,2,134163,"Teignbridge","South West",15.893
+"81",0.6897,3,68267,"Torridge","South West",23.269
+"82",0.7183,2,55796,"West Devon","South West",18.052
+"83",0.6467,2,103745,"Eastbourne","South East",22.11
+"84",0.5826,3,92661,"Hastings","South East",34.281
+"85",0.673,2,103268,"Lewes","South East",15.758
+"86",0.7039,2,96080,"Rother","South East",19.768
+"87",0.6747,1,161475,"Wealden","South East",12.311
+"88",0.5888,3,187199,"Basildon","East of England",23.243
+"89",0.6413,2,152604,"Braintree","East of England",14.723
+"90",0.5994,1,77021,"Brentwood","East of England",10.007
+"91",0.6668,2,90376,"Castle Point","East of England",16.842
+"92",0.6064,1,178388,"Chelmsford","East of England",12.221
+"93",0.5591,2,194706,"Colchester","East of England",16.778
+"94",0.5808,2,131689,"Epping Forest","East of England",15.068
+"95",0.5318,2,87067,"Harlow","East of England",21.413
+"96",0.6804,1,64926,"Maldon","East of England",14.169
+"97",0.6758,1,87368,"Rochford","East of England",10.449
+"98",0.7003,3,146561,"Tendring","East of England",30.484
+"99",0.6544,1,91284,"Uttlesford","East of England",9.258
+"100",0.5876,1,116306,"Cheltenham","South West",14.26
+"101",0.682,1,89862,"Cotswold","South West",11.061
+"102",0.6327,2,86791,"Forest of Dean","South West",18.013
+"103",0.6106,2,129128,"Gloucester","South West",21.807
+"104",0.6841,1,119964,"Stroud","South West",10.797
+"105",0.6671,1,95019,"Tewkesbury","South West",12.142
+"106",0.5955,1,176582,"Basingstoke and Deane","South East",12.823
+"107",0.6916,1,122308,"East Hampshire","South East",10.284
+"108",0.6451,1,133584,"Eastleigh","South East",10.192
+"109",0.7002,1,116233,"Fareham","South East",9.019
+"110",0.662,2,84838,"Gosport","South East",20.541
+"111",0.6676,1,97073,"Hart","South East",5.544
+"112",0.7077,2,126220,"Havant","South East",21.806
+"113",0.7158,1,180086,"New Forest","South East",13.015
+"114",0.5809,2,94599,"Rushmoor","South East",15.903
+"115",0.6575,1,126160,"Test Valley","South East",11.931
+"116",0.6466,1,124859,"Winchester","South East",9.615
+"117",0.5707,2,97279,"Broxbourne","East of England",17.989
+"118",0.604,1,154763,"Dacorum","East of England",13.004
+"119",0.6163,1,104919,"Hertsmere","East of England",13.938
+"120",0.6202,1,133570,"North Hertfordshire","East of England",11.627
+"121",0.6307,1,93323,"Three Rivers","East of England",9.871
+"122",0.5202,2,96577,"Watford","East of England",15.41
+"123",0.598,2,130032,"Ashford","South East",18.546
+"124",0.5659,2,165394,"Canterbury","South East",16.798
+"125",0.5634,2,112606,"Dartford","South East",18.812
+"126",0.6591,2,118131,"Dover","South East",22.161
+"127",0.5675,2,106939,"Gravesham","South East",21.414
+"128",0.6021,2,171826,"Maidstone","South East",16.503
+"129",0.638,1,120750,"Sevenoaks","South East",12.437
+"130",0.6653,3,112996,"Folkestone and Hythe","South East",24.149
+"131",0.5905,3,150082,"Swale","South East",27.076
+"132",0.6733,3,141922,"Thanet","South East",31.314
+"133",0.6351,1,132153,"Tonbridge and Malling","South East",13.333
+"134",0.6069,1,118724,"Tunbridge Wells","South East",11.31
+"135",0.5564,3,88920,"Burnley","North West",37.793
+"136",0.6551,2,118216,"Chorley","North West",16.863
+"137",0.7248,2,80780,"Fylde","North West",15.875
+"138",0.5668,3,81043,"Hyndburn","North West",34.333
+"139",0.6163,3,146038,"Lancaster","North West",24.165
+"140",0.5344,3,92112,"Pendle","North West",30.723
+"141",0.5721,3,143135,"Preston","North West",29.531
+"142",0.7203,1,60888,"Ribble Valley","North West",10.594
+"143",0.6352,3,71482,"Rossendale","North West",24.062
+"144",0.6814,2,110788,"South Ribble","North West",15.33
+"145",0.6803,2,114306,"West Lancashire","North West",18.645
+"146",0.7471,2,112091,"Wyre","North West",20.858
+"147",0.698,1,101526,"Blaby","East Midlands",10.629
+"148",0.5979,1,185851,"Charnwood","East Midlands",13.238
+"149",0.7069,1,93807,"Harborough","East Midlands",8.015
+"150",0.6637,1,113136,"Hinckley and Bosworth","East Midlands",13.461
+"151",0.694,1,51209,"Melton","East Midlands",12.532
+"152",0.6675,1,103611,"North West Leicestershire","East Midlands",14.573
+"153",0.6534,1,57015,"Oadby and Wigston","East Midlands",12.958
+"154",0.5275,3,70173,"Boston","East Midlands",22.967
+"155",0.7276,3,141727,"East Lindsey","East Midlands",29.892
+"156",0.5049,3,99299,"Lincoln","East Midlands",26.889
+"157",0.6995,1,116915,"North Kesteven","East Midlands",11.553
+"158",0.6405,2,95019,"South Holland","East Midlands",17.896
+"159",0.6877,1,142424,"South Kesteven","East Midlands",13.499
+"160",0.7176,2,95667,"West Lindsey","East Midlands",20.355
+"161",0.6662,2,139968,"Breckland","East of England",19.614
+"162",0.6921,1,130783,"Broadland","East of England",11.817
+"163",0.6361,3,99336,"Great Yarmouth","East of England",33.097
+"164",0.6537,3,151383,"King's Lynn and West Norfolk","East of England",23.72
+"165",0.7192,2,104837,"North Norfolk","East of England",21.058
+"166",0.4817,3,140573,"Norwich","East of England",27.599
+"167",0.6894,1,140880,"South Norfolk","East of England",13.318
+"168",0.7518,1,57142,"Craven","Yorkshire and The Humber",12.76
+"169",0.7232,1,91594,"Hambleton","Yorkshire and The Humber",11.987
+"170",0.6812,1,160831,"Harrogate","Yorkshire and The Humber",10.897
+"171",0.5842,1,53730,"Richmondshire","Yorkshire and The Humber",12.135
+"172",0.7151,2,55380,"Ryedale","Yorkshire and The Humber",15.665
+"173",0.7047,3,108757,"Scarborough","Yorkshire and The Humber",26.28
+"174",0.6698,1,90620,"Selby","Yorkshire and The Humber",12.73
+"175",0.6542,3,127918,"Ashfield","East Midlands",26.308
+"176",0.6772,3,117459,"Bassetlaw","East Midlands",22.588
+"177",0.6141,1,114033,"Broxtowe","East Midlands",14.238
+"178",0.6577,2,117896,"Gedling","East Midlands",14.894
+"179",0.6296,3,109313,"Mansfield","East Midlands",28.503
+"180",0.6561,2,122421,"Newark and Sherwood","East Midlands",19.227
+"181",0.67,1,119184,"Rushcliffe","East Midlands",7.18
+"182",0.5727,1,150503,"Cherwell","South East",14.41
+"183",0.3474,2,152457,"Oxford","South East",16.707
+"184",0.6355,1,142057,"South Oxfordshire","South East",8.459
+"185",0.6129,1,136007,"Vale of White Horse","South East",8.358
+"186",0.6206,1,110643,"West Oxfordshire","South East",8.684
+"187",0.6632,2,115587,"Mendip","South West",16.6
+"188",0.6385,2,123178,"Sedgemoor","South West",21.306
+"189",0.68,2,168345,"South Somerset","South West",17.347
+"190",0.673,2,100762,"Cannock Chase","West Midlands",20.426
+"191",0.6027,2,119754,"East Staffordshire","West Midlands",19.028
+"192",0.6717,1,104756,"Lichfield","West Midlands",12.566
+"193",0.6439,2,129441,"Newcastle-under-Lyme","West Midlands",18.929
+"194",0.7103,1,112436,"South Staffordshire","West Midlands",13.124
+"195",0.6773,1,137280,"Stafford","West Midlands",13.678
+"196",0.7051,2,98435,"Staffordshire Moorlands","West Midlands",15.04
+"197",0.6065,2,76696,"Tamworth","West Midlands",21.061
+"198",0.6921,1,92036,"Babergh","East of England",14.267
+"199",0.5672,3,136913,"Ipswich","East of England",25.89
+"200",0.7097,1,103895,"Mid Suffolk","East of England",13.225
+"201",0.5876,1,136795,"Elmbridge","South East",7.944
+"202",0.5944,1,80627,"Epsom and Ewell","South East",8.833
+"203",0.5697,1,148998,"Guildford","South East",9.395
+"204",0.6491,1,87245,"Mole Valley","South East",9.511
+"205",0.6044,1,148748,"Reigate and Banstead","South East",11.276
+"206",0.5378,1,89424,"Runnymede","South East",12.012
+"207",0.5683,2,99844,"Spelthorne","South East",14.943
+"208",0.6541,1,89305,"Surrey Heath","South East",8.066
+"209",0.6477,1,88129,"Tandridge","South East",11.896
+"210",0.6516,1,126328,"Waverley","South East",7.494
+"211",0.5458,1,100793,"Woking","South East",10.804
+"212",0.6725,2,65264,"North Warwickshire","West Midlands",17.907
+"213",0.6033,3,129883,"Nuneaton and Bedworth","West Midlands",23.54
+"214",0.5629,1,108935,"Rugby","West Midlands",14.119
+"215",0.671,1,130098,"Stratford-on-Avon","West Midlands",11.728
+"216",0.5979,1,143753,"Warwick","West Midlands",12.005
+"217",0.6769,2,64301,"Adur","South East",17.594
+"218",0.6536,2,160758,"Arun","South East",18.638
+"219",0.6685,1,121129,"Chichester","South East",14.085
+"220",0.5439,2,112409,"Crawley","South East",18.94
+"221",0.6926,1,143791,"Horsham","South East",9.89
+"222",0.6364,1,151022,"Mid Sussex","South East",7.747
+"223",0.6387,2,110570,"Worthing","South East",17.012
+"224",0.6977,1,99881,"Bromsgrove","West Midlands",11.697
+"225",0.7088,2,78698,"Malvern Hills","West Midlands",16.066
+"226",0.6039,2,85261,"Redditch","West Midlands",22.524
+"227",0.5731,2,101222,"Worcester","West Midlands",20.414
+"228",0.6801,2,129433,"Wychavon","West Midlands",15.766
+"229",0.6765,2,101291,"Wyre Forest","West Midlands",22.437
+"230",0.6156,1,148452,"St Albans","East of England",8.339
+"231",0.5203,1,123043,"Welwyn Hatfield","East of England",14.215
+"232",0.6193,1,149748,"East Hertfordshire","East of England",8.188
+"233",0.576,2,87845,"Stevenage","East of England",19.695
+"234",0.7033,2,249461,"East Suffolk","East of England",19.56
+"235",0.6171,2,179045,"West Suffolk","East of England",16.245
+"236",0.6798,2,155115,"Somerset West and Taunton","South West",19.142
+"237",0.581,3,287550,"Bolton","North West",30.691
+"238",0.588,3,190990,"Bury","North West",23.682
+"239",0.3885,3,552858,"Manchester","North West",40.005
+"240",0.5463,3,237110,"Oldham","North West",33.155
+"241",0.5459,3,222412,"Rochdale","North West",34.415
+"242",0.4562,3,258834,"Salford","North West",34.21
+"243",0.6238,2,293423,"Stockport","North West",20.826
+"244",0.5957,3,226493,"Tameside","North West",31.374
+"245",0.604,2,237354,"Trafford","North West",16.088
+"246",0.6167,3,328662,"Wigan","North West",25.713
+"247",0.5792,3,150862,"Knowsley","North West",43.006
+"248",0.4899,3,498042,"Liverpool","North West",42.412
+"249",0.6534,3,180585,"St. Helens","North West",31.518
+"250",0.6455,3,276410,"Sefton","North West",27.035
+"251",0.6492,3,324011,"Wirral","North West",29.589
+"252",0.6337,3,246866,"Barnsley","Yorkshire and The Humber",29.933
+"253",0.6442,3,311890,"Doncaster","Yorkshire and The Humber",30.289
+"254",0.6765,3,265411,"Rotherham","Yorkshire and The Humber",29.55
+"255",0.544,3,584853,"Sheffield","Yorkshire and The Humber",27.06
+"256",0.4601,3,302820,"Newcastle upon Tyne","North East",29.79
+"257",0.6466,2,207913,"North Tyneside","North East",22.279
+"258",0.6224,3,150976,"South Tyneside","North East",31.509
+"259",0.6259,3,277705,"Sunderland","North East",30.586
+"260",0.4491,3,1141816,"Birmingham","West Midlands",38.067
+"261",0.4696,3,371521,"Coventry","West Midlands",25.613
+"262",0.6394,3,321596,"Dudley","West Midlands",24.103
+"263",0.5186,3,328450,"Sandwell","West Midlands",34.884
+"264",0.6534,2,216374,"Solihull","West Midlands",17.37
+"265",0.5936,3,285478,"Walsall","West Midlands",31.555
+"266",0.5291,3,263357,"Wolverhampton","West Midlands",32.102
+"267",0.5261,3,539776,"Bradford","Yorkshire and The Humber",34.666
+"268",0.6199,3,211455,"Calderdale","Yorkshire and The Humber",26.351
+"269",0.6077,3,439787,"Kirklees","Yorkshire and The Humber",25.151
+"270",0.513,3,793139,"Leeds","Yorkshire and The Humber",27.301
+"271",0.6139,3,348312,"Wakefield","Yorkshire and The Humber",27.306
+"272",0.608,3,202055,"Gateshead","North East",28.217
+"273",0.4019,3,212906,"Barking and Dagenham","London",32.768
+"274",0.4881,2,395869,"Barnet","London",16.148
+"275",0.576,2,248287,"Bexley","London",16.273
+"276",0.3928,3,329771,"Brent","London",25.558
+"277",0.5735,1,332336,"Bromley","London",14.163
+"278",0.3636,2,270029,"Camden","London",20.131
+"279",0.4407,2,386710,"Croydon","London",22.477
+"280",0.4027,3,341806,"Ealing","London",22.71
+"281",0.5491,3,333794,"Enfield","London",25.781
+"282",0.442,3,287942,"Greenwich","London",24.464
+"283",0.3255,3,281120,"Hackney and City of London","London",32.526
+"284",0.3385,2,185143,"Hammersmith and Fulham","London",22.27
+"285",0.3877,3,268647,"Haringey","London",27.956
+"286",0.5075,2,251160,"Harrow","London",15.031
+"287",0.5559,2,259552,"Havering","London",16.789
+"288",0.4879,2,306870,"Hillingdon","London",18.223
+"289",0.4251,2,271523,"Hounslow","London",21.487
+"290",0.3313,3,242467,"Islington","London",27.535
+"291",0.3807,2,156129,"Kensington and Chelsea","London",21.526
+"292",0.4766,1,177507,"Kingston upon Thames","London",11.381
+"293",0.3535,3,326034,"Lambeth","London",25.422
+"294",0.4061,3,305842,"Lewisham","London",26.661
+"295",0.4276,1,206548,"Merton","London",14.649
+"296",0.3305,3,353134,"Newham","London",29.577
+"297",0.4747,2,305222,"Redbridge","London",17.203
+"298",0.5227,1,198019,"Richmond upon Thames","London",9.425
+"299",0.3579,3,318830,"Southwark","London",25.811
+"300",0.5428,1,206349,"Sutton","London",13.987
+"301",0.2885,3,324745,"Tower Hamlets","London",27.913
+"302",0.3963,3,276983,"Waltham Forest","London",25.209
+"303",0.3642,2,329677,"Wandsworth","London",16.611
+"304",0.3573,2,261317,"Westminster","London",20.339

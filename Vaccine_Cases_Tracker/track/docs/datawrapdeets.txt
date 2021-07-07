@@ -1,0 +1,15 @@
+https://drive.google.com/file/d/1YCO22Nh2ei49z5jtCLePoxCfWj2lxXws/view?usp=sharing
+https://drive.google.com/uc?export=download&id=1YCO22Nh2ei49z5jtCLePoxCfWj2lxXws
+app.datawrapper.de/chart/blxhy/upload 
+app.datawrapper.de/map/blxhy/visualize
+
+https://www.dropbox.com/s/t6zo0n9o5ki72de/finalproduct.csv?dl=0
+
+
+http://dl.dropboxusercontent.com/s/t6zo0n9o5ki72de/finalproduct.csv?dl=0
+app.datawrapper.de/chart/KmKjx/upload
+app.datawrapper.de/map/KmKjx/visualize
+
+<b>New Cases</b>: {{ new_cases }} (as of {{ FORMAT(testdate, "DD/MM/YY") }})
+<br>
+<b>% Vaccinated</b>: {{ total_vaccinations_per_hundred }}% (as of {{ FORMAT(date, "DD/MM/YY") }})

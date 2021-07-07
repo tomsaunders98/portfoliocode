@@ -1,0 +1,469 @@
+areacode,lta,All
+,,3430
+,Bath,170
+,Bristol,980
+,Kingswood,650
+,Northavon,550
+,Wansdyke,250
+,Woodspring,830
+,,
+E10000001,,2220
+E07000002,Bedford,610
+,Luton,490
+E07000001,Mid Bedfordshire,620
+E07000003,South Bedfordshire,510
+,,
+,,4560
+,Bracknell,750
+,Bracknell Forest,820
+,Newbury,750
+,Reading,500
+,Slough,290
+,Windsor and Maidenhead,430
+,Wokingham,1020
+,,
+E10000002,,4740
+E07000004,Aylesbury Vale,1150
+E07000005,Chiltern,370
+,Milton Keynes,2520
+E07000006,South Bucks,100
+E07000007,Wycombe,610
+,,
+E10000003,,4260
+E07000008,Cambridge,380
+E07000009,East Cambridgeshire,160
+E07000010,Fenland,420
+E07000011,Huntingdonshire,1020
+,Peterborough,1710
+E07000012,South Cambridgeshire,570
+,,
+E10000004,,5140
+E07000013,Chester,450
+E07000014,Congleton,430
+E07000015,Crewe and Nantwich,400
+E07000016,Ellesmere Port & Neston,220
+,Halton,320
+E07000017,Macclesfield,550
+,Runcorn,320
+E07000018,Vale Royal,420
+,Warrington,2040
+,,
+,,2290
+,Hartlepool,400
+,Langbaurgh-on-Tees,620
+,Middlesbrough,430
+,Stockton-on-Tees,840
+,,
+E10000005,,1950
+E07000019,Caradon,580
+E07000020,Carrick,390
+E07000025,Isles of Scilly,10
+E07000021,Kerrier,250
+E07000022,North Cornwall,250
+E07000023,Penwith,160
+E07000024,Restormel,310
+,,
+E10000006,,1560
+E07000026,Allerdale,400
+E07000027,Barrow-in-Furness,290
+E07000028,Carlisle,260
+E07000029,Copeland,230
+E07000030,Eden,90
+E07000031,South Lakeland,280
+,,
+E10000007,,3990
+E07000032,Amber Valley,720
+E07000033,Bolsover,160
+E07000034,Chesterfield,280
+,Derby,1280
+E07000035,Derbyshire Dales,200
+E07000036,Erewash,730
+E07000037,High Peak,80
+E07000038,North East Derbyshire,280
+E07000039,South Derbyshire,260
+,,
+E10000008,,3750
+E07000040,East Devon,490
+E07000041,Exeter,300
+E07000042,Mid Devon,310
+E07000043,North Devon,280
+,Plymouth,820
+E07000044,South Hams,310
+E07000045,Teignbridge,430
+,Torbay,480
+E07000046,Torridge,230
+E07000047,West Devon,100
+,,
+E10000009,,4250
+,Bournemouth,390
+E07000048,Christchurch,270
+E07000049,East Dorset,690
+E07000050,North Dorset,270
+,Poole,1780
+E07000051,Purbeck,280
+E07000052,West Dorset,330
+E07000053,Weymouth and Portland,250
+,,
+E10000010,,1640
+,Aycliffe,40
+E07000054,Chester-le-Street,60
+,Darlington,400
+E07000055,Derwentside,210
+E07000056,Durham,210
+E07000057,Easington,230
+,Peterlee,0
+E07000058,Sedgefield,280
+E07000059,Teesdale,50
+E07000060,Wear Valley,160
+,,
+E10000011,,3050
+,Brighton,290
+E07000061,Eastbourne,660
+E07000062,Hastings,400
+,Hove,330
+E07000063,Lewes,500
+E07000064,Rother,300
+E07000065,Wealden,580
+,,
+E10000012,,7780
+E07000066,Basildon,1960
+E07000067,Braintree,540
+E07000068,Brentwood,100
+E07000069,Castle Point,170
+E07000070,Chelmsford,840
+E07000071,Colchester,590
+E07000072,Epping Forest,140
+E07000073,Harlow,270
+E07000074,Maldon,390
+E07000075,Rochford,520
+,Southend-on-Sea,780
+E07000076,Tendring,700
+,Thurrock,330
+E07000077,Uttlesford,470
+,,
+E10000013,,2020
+E07000078,Cheltenham,300
+E07000079,Cotswold,280
+E07000080,Forest of Dean,260
+E07000081,Gloucester,380
+E07000082,Stroud,370
+E07000083,Tewkesbury,430
+,,
+E11000001,,9990
+E08000001,Bolton,1100
+E08000002,Bury,570
+E08000003,Manchester,1590
+E08000004,Oldham,1340
+E08000005,Rochdale,950
+E08000006,Salford,1110
+E08000007,Stockport,1100
+E08000008,Tameside,630
+E08000009,Trafford,600
+E08000010,Wigan,1000
+,,
+E10000014,,7850
+E07000084,Basingstoke and Deane,720
+E07000085,East Hampshire,780
+E07000086,Eastleigh,740
+E07000087,Fareham,530
+E07000088,Gosport,180
+E07000089,Hart,370
+E07000090,Havant,410
+E07000091,New Forest,1210
+,Portsmouth,470
+E07000092,Rushmoor,800
+,Southampton,540
+E07000093,Test Valley,450
+E07000094,Winchester,650
+,,
+E10000034,,3040
+E07000234,Bromsgrove,190
+,Hereford,290
+,Leominster,120
+,Malvern Hills,300
+E07000236,Redditch,970
+,South Herefordshire,220
+E07000237,Worcester,210
+E07000238,Wychavon,400
+E07000239,Wyre Forest,320
+,,
+E10000015,,4580
+E07000095,Broxbourne,220
+E07000096,Dacorum,950
+E07000097,East Hertfordshire,590
+E07000098,Hertsmere,210
+E07000099,North Hertfordshire,410
+E07000100,St Albans,510
+E07000101,Stevenage,540
+E07000102,Three Rivers,460
+E07000103,Watford,170
+E07000104,Welwyn Hatfield,530
+,,
+,,3980
+,Beverley,400
+,Boothferry,280
+,Cleethorpes,150
+,East Yorkshire,460
+,Glanford,430
+,Great Grimsby,510
+,Holderness,300
+,Kingston upon Hull,1130
+,Scunthorpe,330
+,,
+,,740
+,Medina,330
+,South Wight,420
+,,
+E10000016,,5170
+E07000105,Ashford,620
+E07000106,Canterbury,520
+E07000107,Dartford,130
+E07000108,Dover,340
+,Gillingham,330
+E07000109,Gravesham,150
+E07000110,Maidstone,330
+,Rochester upon Medway,370
+E07000111,Sevenoaks,500
+E07000112,Shepway,390
+E07000113,Swale,400
+E07000114,Thanet,270
+E07000115,Tonbridge and Malling,560
+E07000116,Tunbridge Wells,250
+,,
+E10000017,,4810
+,Blackburn,360
+,Blackpool,310
+E07000117,Burnley,350
+,Central Lancashire,1020
+E07000118,Chorley,90
+E07000119,Fylde,160
+E07000120,Hyndburn,200
+E07000121,Lancaster,430
+E07000122,Pendle,160
+E07000123,Preston,300
+E07000124,Ribble Valley,230
+E07000125,Rossendale,170
+,Skelmersdale,350
+E07000126,South Ribble,280
+E07000127,West Lancashire,150
+E07000128,Wyre,250
+,,
+E10000018,,3460
+E07000129,Blaby,280
+E07000130,Charnwood,480
+E07000131,Harborough,360
+E07000132,Hinckley and Bosworth,470
+,Leicester,1000
+E07000133,Melton,200
+E07000134,North West Leicestershire,340
+E07000135,Oadby and Wigston,210
+,Rutland,130
+,,
+E10000019,,2510
+E07000136,Boston,240
+E07000137,East Lindsey,510
+E07000138,Lincoln,390
+E07000139,North Kesteven,430
+E07000140,South Holland,260
+E07000141,South Kesteven,430
+E07000142,West Lindsey,250
+,,
+E12000007,,23240
+,,
+E09000002,Barking and Dagenham,50
+E09000003,Barnet,410
+E09000004,Bexley,340
+E09000005,Brent,570
+E09000006,Bromley,1090
+E09000007,Camden,1340
+E09000001,City of London,20
+E09000008,Croydon,1150
+E09000009,Ealing,640
+E09000010,Enfield,870
+,Greater London Council,4330
+E09000011,Greenwich,850
+E09000012,Hackney,240
+E09000013,Hammersmith and Fulham,120
+E09000014,Haringey,620
+E09000015,Harrow,490
+E09000016,Havering,290
+E09000017,Hillingdon,460
+E09000018,Hounslow,580
+E09000019,Islington,720
+E09000020,Kensington and Chelsea,530
+E09000021,Kingston upon Thames,200
+E09000022,Lambeth,1310
+E09000023,Lewisham,1140
+E09000024,Merton,580
+E09000025,Newham,720
+E09000026,Redbridge,330
+E09000027,Richmond upon Thames,270
+E09000028,Southwark,950
+E09000029,Sutton,480
+E09000030,Tower Hamlets,480
+E09000031,Waltham Forest,280
+E09000032,Wandsworth,550
+E09000033,Westminster,260
+,,
+E11000002,,4360
+E08000011,Knowsley,200
+E08000012,Liverpool,1730
+E08000014,Sefton,680
+E08000013,St. Helens,710
+E08000015,Wirral,1040
+,,
+E10000020,,3660
+E07000143,Breckland,410
+E07000144,Broadland,440
+E07000145,Great Yarmouth,450
+E07000146,King's Lynn and West Norfolk,550
+E07000147,North Norfolk,580
+E07000148,Norwich,990
+E07000149,South Norfolk,240
+,,
+E10000023,,2260
+E07000163,Craven,100
+E07000164,Hambleton,180
+,Harrogate,560
+E07000166,Richmondshire,180
+,Ryedale,390
+E07000168,Scarborough,200
+,Selby,430
+,York,230
+,,
+E10000021,,3280
+E07000150,Corby,60
+E07000151,Daventry,250
+E07000152,East Northamptonshire,210
+E07000153,Kettering,220
+E07000154,Northampton,2000
+E07000155,South Northamptonshire,310
+E07000156,Wellingborough,230
+,,
+E10000022,,1010
+E07000157,Alnwick,60
+E07000158,Berwick-upon-Tweed,70
+E07000159,Blyth Valley,350
+E07000160,Castle Morpeth,200
+E07000161,Tynedale,100
+E07000162,Wansbeck,230
+,,
+E10000024,,4230
+E07000170,Ashfield,400
+E07000171,Bassetlaw,530
+E07000172,Broxtowe,280
+E07000173,Gedling,500
+E07000174,Mansfield,500
+E07000175,Newark and Sherwood,370
+,Nottingham,1190
+E07000176,Rushcliffe,480
+,,
+E10000025,,2320
+E07000177,Cherwell,690
+E07000178,Oxford,450
+E07000179,South Oxfordshire,270
+E07000180,Vale of White Horse,630
+E07000181,West Oxfordshire,280
+,,
+E10000026,,2110
+E07000182,Bridgnorth,260
+E07000183,North Shropshire,230
+E07000184,Oswestry,160
+E07000185,Shrewsbury and Atcham,440
+E07000186,South Shropshire,100
+,Telford,550
+,The Wrekin,380
+,,
+E10000027,,2130
+E07000187,Mendip,420
+E07000188,Sedgemoor,380
+E07000189,South Somerset,710
+E07000190,Taunton Deane,490
+E07000191,West Somerset,120
+,,
+E11000003,,5640
+E08000016,Barnsley,880
+E08000017,Doncaster,1340
+E08000018,Rotherham,870
+E08000019,Sheffield,2560
+,,
+E10000028,,5570
+E07000192,Cannock Chase,440
+E07000193,East Staffordshire,350
+E07000194,Lichfield,310
+E07000195,Newcastle-under-Lyme,520
+E07000196,South Staffordshire,760
+E07000197,Stafford,340
+E07000198,Staffordshire Moorlands,330
+,Stoke-on-Trent,1190
+E07000199,Tamworth,1330
+,,
+E10000029,,3850
+E07000200,Babergh,380
+E07000201,Forest Heath,660
+E07000202,Ipswich,780
+E07000203,Mid Suffolk,390
+E07000204,St Edmundsbury,270
+E07000205,Suffolk Coastal,570
+E07000206,Waveney,810
+,,
+,,
+E10000030,,3830
+E07000207,Elmbridge,550
+E07000208,Epsom and Ewell,70
+E07000209,Guildford,610
+E07000210,Mole Valley,130
+E07000211,Reigate and Banstead,320
+E07000212,Runnymede,280
+E07000213,Spelthorne,210
+E07000214,Surrey Heath,430
+E07000215,Tandridge,200
+E07000216,Waverley,280
+E07000217,Woking,750
+,,
+E11000004,,4420
+E08000020,Gateshead,580
+E08000021,Newcastle upon Tyne,1020
+E08000022,North Tyneside,970
+E08000023,South Tyneside,430
+E08000024,Sunderland,610
+,Washington,800
+,,
+E10000031,,1770
+E07000218,North Warwickshire,150
+E07000219,Nuneaton and Bedworth,580
+E07000220,Rugby,260
+E07000221,Stratford-on-Avon,420
+E07000222,Warwick,370
+,,
+E11000005,,9730
+E08000025,Birmingham,3090
+E08000026,Coventry,730
+E08000027,Dudley,1310
+E08000028,Sandwell,1020
+E08000029,Solihull,840
+E08000030,Walsall,990
+E08000031,Wolverhampton,1760
+,,
+E10000032,,4400
+E07000223,Adur,110
+E07000224,Arun,630
+E07000225,Chichester,370
+E07000226,Crawley,1320
+E07000227,Horsham,730
+E07000228,Mid Sussex,1030
+E07000229,Worthing,210
+,,
+E11000006,,8630
+E08000032,Bradford,2010
+E08000033,Calderdale,480
+E08000034,Kirklees,1920
+E08000035,Leeds,2870
+E08000036,Wakefield,1360
+,,
+E10000033,,3110
+E07000230,Kennet,240
+E07000231,North Wiltshire,330
+E07000232,Salisbury,320
+,Thamesdown,1830
+E07000233,West Wiltshire,400

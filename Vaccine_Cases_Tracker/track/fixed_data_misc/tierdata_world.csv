@@ -1,0 +1,232 @@
+location,type
+Afghanistan,red
+Akrotiri and Dhekelia,amber
+Albania,amber
+Algeria,amber
+Andorra,amber
+Angola,red
+Anguilla,amber
+Antigua and Barbuda,green
+Argentina,red
+Armenia,amber
+Aruba,amber
+Australia,green
+Austria,amber
+Azerbaijan,amber
+Bahamas,amber
+Bahrain,red
+Bangladesh,red
+Barbados,green
+Belarus,amber
+Belgium,amber
+Belize,amber
+Benin,amber
+Bermuda,green
+Bhutan,amber
+Bolivia,red
+"Bonaire, Sint Eustatius and Saba",amber
+Bosnia and Herzegovina,amber
+Botswana,red
+Brazil,red
+British Antarctic Territory,green
+British Indian Ocean Territory,green
+British Virgin Islands,green
+Brunei,green
+Bulgaria,amber
+Burkina Faso,amber
+Burundi,red
+Cambodia,amber
+Cameroon,amber
+Canada,amber
+Cape Verde,red
+Cayman Islands,green
+Central African Republic,amber
+Chad,amber
+Chile,red
+China,amber
+Colombia,red
+Comoros,amber
+Congo,amber
+"Cook Islands, Tokelau and Niue",amber
+Costa Rica,red
+Cote d'Ivoire,amber
+Croatia,amber
+Cuba,amber
+Curaçao,amber
+Cyprus,amber
+Czechia,amber
+Democratic Republic of Congo,red
+Denmark,amber
+Djibouti,amber
+Dominica,green
+Dominican Republic,amber
+Ecuador,red
+Egypt,red
+El Salvador,amber
+Equatorial Guinea,amber
+Eritrea,amber
+Estonia,amber
+Eswatini,red
+Ethiopia,red
+Falkland Islands,green
+Faroe Islands,green
+Fiji,amber
+Finland,amber
+France,amber
+French Guiana,red
+French Polynesia,amber
+Gabon,amber
+Gambia,amber
+Georgia,amber
+Germany,amber
+Ghana,amber
+Gibraltar,green
+Greece,amber
+Greenland,amber
+Grenada,green
+Guadeloupe,amber
+Guatemala,amber
+Guinea,amber
+Guinea-Bissau,amber
+Guyana,red
+Haiti,amber
+Honduras,amber
+Hong Kong,amber
+Hungary,amber
+Iceland,green
+India,red
+Indonesia,amber
+Iran,amber
+Iraq,amber
+Israel,green
+Italy,amber
+Jamaica,amber
+Japan,amber
+Jordan,amber
+Kazakhstan,amber
+Kenya,red
+Kiribati,amber
+Kosovo,amber
+Kuwait,amber
+Kyrgyzstan,amber
+Laos,amber
+Latvia,amber
+Lebanon,amber
+Lesotho,red
+Liberia,amber
+Libya,amber
+Liechtenstein,amber
+Lithuania,amber
+location,type
+Luxembourg,amber
+Macao,amber
+Madagascar,amber
+Malawi,red
+Malaysia,amber
+Maldives,red
+Mali,amber
+Malta,green
+Marshall Islands,amber
+Martinique,amber
+Mauritania,amber
+Mauritius,amber
+Mayotte,amber
+Mexico,amber
+Micronesia,amber
+Moldova,amber
+Monaco,amber
+Mongolia,amber
+Montenegro,amber
+Montserrat,green
+Morocco,amber
+Mozambique,red
+Myanmar,amber
+Namibia,red
+Nauru,amber
+Nepal,red
+Netherlands,amber
+New Caledonia,amber
+New Zealand,green
+Nicaragua,amber
+Niger,amber
+Nigeria,amber
+North Korea,amber
+North Macedonia,amber
+Norway,amber
+Oman,red
+Pakistan,red
+Palau,amber
+Panama,red
+Papua New Guinea,amber
+Paraguay,red
+Peru,red
+Philippines,red
+"Pitcairn, Henderson, Ducie and Oeno Islands",green
+Poland,amber
+Portugal,amber
+Qatar,red
+Réunion,amber
+Romania,amber
+Russia,amber
+Rwanda,red
+Samoa,amber
+San Marino,amber
+Sao Tome and Principe,amber
+Saudi Arabia,amber
+Senegal,amber
+Serbia,amber
+Seychelles,red
+Sierra Leone,amber
+Singapore,green
+Slovakia,amber
+Slovenia,amber
+Solomon Islands,amber
+Somalia,red
+South Africa,red
+South Georgia and South Sandwich Islands,green
+South Korea,amber
+South Sudan,amber
+Spain,amber
+Sri Lanka,red
+"St Helena, Ascension and Tristan da Cunha",green
+St Kitts and Nevis,amber
+St Lucia,amber
+St Maarten,amber
+St Martin and St Barthélemy,amber
+St Pierre and Miquelon,amber
+St Vincent and the Grenadines,amber
+Sudan,red
+Suriname,red
+Sweden,amber
+Switzerland,amber
+Syria,amber
+Taiwan,amber
+Tajikistan,amber
+Tanzania,red
+Thailand,amber
+The Occupied Palestinian Territories,amber
+Timor,amber
+Togo,amber
+Tonga,amber
+Trinidad and Tobago,red
+Tunisia,amber
+Turkey,red
+Turkmenistan,amber
+Turks and Caicos Islands,green
+Tuvalu,amber
+Uganda,amber
+Ukraine,amber
+United Arab Emirates,red
+United States,amber
+Uruguay,red
+Uzbekistan,amber
+Vanuatu,amber
+Venezuela,red
+Vietnam,amber
+Wallis and Futuna,amber
+Western Sahara,amber
+Yemen,amber
+Zambia,red
+Zimbabwe,red
+Ireland,green
+United Kingdom,green
