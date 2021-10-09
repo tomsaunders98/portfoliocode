@@ -1,0 +1,2029 @@
+areaCode,areaName,areaType,date,newCasesByPublishDateRollingRate
+E92000001,England,nation,26/07/2021,405.2
+E92000001,England,nation,25/07/2021,427.4
+E92000001,England,nation,24/07/2021,461.7
+E92000001,England,nation,23/07/2021,500.8
+E92000001,England,nation,22/07/2021,526.7
+E92000001,England,nation,21/07/2021,541.9
+E92000001,England,nation,20/07/2021,539.1
+E92000001,England,nation,19/07/2021,520.6
+E92000001,England,nation,18/07/2021,513.5
+E92000001,England,nation,17/07/2021,484.4
+E92000001,England,nation,16/07/2021,446.7
+E92000001,England,nation,15/07/2021,418
+E92000001,England,nation,14/07/2021,389.4
+E92000001,England,nation,13/07/2021,371
+E92000001,England,nation,12/07/2021,357.5
+E92000001,England,nation,11/07/2021,344.5
+E92000001,England,nation,10/07/2021,330.3
+E92000001,England,nation,09/07/2021,315.4
+E92000001,England,nation,08/07/2021,299.7
+E92000001,England,nation,07/07/2021,290
+E92000001,England,nation,06/07/2021,278.9
+E92000001,England,nation,05/07/2021,263.8
+E92000001,England,nation,04/07/2021,255.7
+E92000001,England,nation,03/07/2021,239.9
+E92000001,England,nation,02/07/2021,228.9
+E92000001,England,nation,01/07/2021,213.1
+E92000001,England,nation,30/06/2021,195.5
+E92000001,England,nation,29/06/2021,180.4
+E92000001,England,nation,28/06/2021,166.7
+E92000001,England,nation,27/06/2021,149
+E92000001,England,nation,26/06/2021,142.3
+E92000001,England,nation,25/06/2021,131.3
+E92000001,England,nation,24/06/2021,123.7
+E92000001,England,nation,23/06/2021,117.1
+E92000001,England,nation,22/06/2021,108
+E92000001,England,nation,21/06/2021,103.4
+E92000001,England,nation,20/06/2021,99.6
+E92000001,England,nation,19/06/2021,96.9
+E92000001,England,nation,18/06/2021,92.7
+E92000001,England,nation,17/06/2021,88.5
+E92000001,England,nation,16/06/2021,83.3
+E92000001,England,nation,15/06/2021,80.7
+E92000001,England,nation,14/06/2021,78.5
+E92000001,England,nation,13/06/2021,75.4
+E92000001,England,nation,12/06/2021,72.1
+E92000001,England,nation,11/06/2021,68.9
+E92000001,England,nation,10/06/2021,65.9
+E92000001,England,nation,09/06/2021,62.2
+E92000001,England,nation,08/06/2021,57.3
+E92000001,England,nation,07/06/2021,52.5
+E92000001,England,nation,06/06/2021,48.9
+E92000001,England,nation,05/06/2021,45.7
+E92000001,England,nation,04/06/2021,42
+E92000001,England,nation,03/06/2021,39.1
+E92000001,England,nation,02/06/2021,36.6
+E92000001,England,nation,01/06/2021,34.9
+E92000001,England,nation,31/05/2021,34.1
+E92000001,England,nation,30/05/2021,32.6
+E92000001,England,nation,29/05/2021,31
+E92000001,England,nation,28/05/2021,30.1
+E92000001,England,nation,27/05/2021,28.1
+E92000001,England,nation,26/05/2021,27
+E92000001,England,nation,25/05/2021,26.3
+E92000001,England,nation,24/05/2021,26.1
+E92000001,England,nation,23/05/2021,25.6
+E92000001,England,nation,22/05/2021,25.1
+E92000001,England,nation,21/05/2021,24
+E92000001,England,nation,20/05/2021,23.1
+E92000001,England,nation,19/05/2021,23
+E92000001,England,nation,18/05/2021,22.4
+E92000001,England,nation,17/05/2021,22.6
+E92000001,England,nation,16/05/2021,23.2
+E92000001,England,nation,15/05/2021,23.1
+E92000001,England,nation,14/05/2021,23.4
+E92000001,England,nation,13/05/2021,23.9
+E92000001,England,nation,12/05/2021,23.9
+E92000001,England,nation,11/05/2021,24
+E92000001,England,nation,10/05/2021,23.2
+E92000001,England,nation,09/05/2021,22.2
+E92000001,England,nation,08/05/2021,22.2
+E92000001,England,nation,07/05/2021,22
+E92000001,England,nation,06/05/2021,21.8
+E92000001,England,nation,05/05/2021,21.6
+E92000001,England,nation,04/05/2021,21.5
+E92000001,England,nation,03/05/2021,22.8
+E92000001,England,nation,02/05/2021,23.4
+E92000001,England,nation,01/05/2021,23.4
+E92000001,England,nation,30/04/2021,23.7
+E92000001,England,nation,29/04/2021,24.1
+E92000001,England,nation,28/04/2021,24.5
+E92000001,England,nation,27/04/2021,24.7
+E92000001,England,nation,26/04/2021,24.3
+E92000001,England,nation,25/04/2021,25.7
+E92000001,England,nation,24/04/2021,25.9
+E92000001,England,nation,23/04/2021,26
+E92000001,England,nation,22/04/2021,25.9
+E92000001,England,nation,21/04/2021,25.7
+E92000001,England,nation,20/04/2021,25.9
+E92000001,England,nation,19/04/2021,25.7
+E92000001,England,nation,18/04/2021,26.9
+E92000001,England,nation,17/04/2021,26.6
+E92000001,England,nation,16/04/2021,26.8
+E92000001,England,nation,15/04/2021,27.6
+E92000001,England,nation,14/04/2021,28.1
+E92000001,England,nation,13/04/2021,28.6
+E92000001,England,nation,12/04/2021,28.3
+E92000001,England,nation,11/04/2021,26.6
+E92000001,England,nation,10/04/2021,27.7
+E92000001,England,nation,09/04/2021,29.1
+E92000001,England,nation,08/04/2021,29.6
+E92000001,England,nation,07/04/2021,31.9
+E92000001,England,nation,06/04/2021,33.7
+E92000001,England,nation,05/04/2021,36.3
+E92000001,England,nation,04/04/2021,39.6
+E92000001,England,nation,03/04/2021,41.7
+E92000001,England,nation,02/04/2021,43.4
+E92000001,England,nation,01/04/2021,47.7
+E92000001,England,nation,31/03/2021,50.4
+E92000001,England,nation,30/03/2021,52.7
+E92000001,England,nation,29/03/2021,54.8
+E92000001,England,nation,28/03/2021,55.9
+E92000001,England,nation,27/03/2021,58.2
+E92000001,England,nation,26/03/2021,59.9
+E92000001,England,nation,25/03/2021,57.3
+E92000001,England,nation,24/03/2021,57.1
+E92000001,England,nation,23/03/2021,57.5
+E92000001,England,nation,22/03/2021,57.2
+E92000001,England,nation,21/03/2021,56.3
+E92000001,England,nation,20/03/2021,55.1
+E92000001,England,nation,19/03/2021,54.7
+E92000001,England,nation,18/03/2021,57.8
+E92000001,England,nation,17/03/2021,58.7
+E92000001,England,nation,16/03/2021,58.8
+E92000001,England,nation,15/03/2021,59.7
+E92000001,England,nation,14/03/2021,59.1
+E92000001,England,nation,13/03/2021,60.3
+E92000001,England,nation,12/03/2021,61.4
+E92000001,England,nation,11/03/2021,60.5
+E92000001,England,nation,10/03/2021,60.4
+E92000001,England,nation,09/03/2021,61.3
+E92000001,England,nation,08/03/2021,62.5
+E92000001,England,nation,07/03/2021,63.9
+E92000001,England,nation,06/03/2021,65
+E92000001,England,nation,05/03/2021,67.5
+E92000001,England,nation,04/03/2021,71.6
+E92000001,England,nation,03/03/2021,76.9
+E92000001,England,nation,02/03/2021,82.7
+E92000001,England,nation,01/03/2021,85.8
+E92000001,England,nation,28/02/2021,94.1
+E92000001,England,nation,27/02/2021,100
+E92000001,England,nation,26/02/2021,104.4
+E92000001,England,nation,25/02/2021,109.5
+E92000001,England,nation,24/02/2021,113.3
+E92000001,England,nation,23/02/2021,117.3
+E92000001,England,nation,22/02/2021,120.8
+E92000001,England,nation,21/02/2021,119.4
+E92000001,England,nation,20/02/2021,121.3
+E92000001,England,nation,19/02/2021,126.1
+E92000001,England,nation,18/02/2021,131.5
+E92000001,England,nation,17/02/2021,133.7
+E92000001,England,nation,16/02/2021,134.8
+E92000001,England,nation,15/02/2021,137.8
+E92000001,England,nation,14/02/2021,144.3
+E92000001,England,nation,13/02/2021,153.1
+E92000001,England,nation,12/02/2021,161.3
+E92000001,England,nation,11/02/2021,168.5
+E92000001,England,nation,10/02/2021,180.1
+E92000001,England,nation,09/02/2021,190.2
+E92000001,England,nation,08/02/2021,197.5
+E92000001,England,nation,07/02/2021,205.6
+E92000001,England,nation,06/02/2021,213.7
+E92000001,England,nation,05/02/2021,222.2
+E92000001,England,nation,04/02/2021,238.9
+E92000001,England,nation,03/02/2021,252.5
+E92000001,England,nation,02/02/2021,262.6
+E92000001,England,nation,01/02/2021,267.7
+E92000001,England,nation,31/01/2021,273.6
+E92000001,England,nation,30/01/2021,288.8
+E92000001,England,nation,29/01/2021,305.5
+E92000001,England,nation,28/01/2021,324
+E92000001,England,nation,27/01/2021,338.5
+E92000001,England,nation,26/01/2021,360.1
+E92000001,England,nation,25/01/2021,382.2
+E92000001,England,nation,24/01/2021,407.1
+E92000001,England,nation,23/01/2021,420.7
+E92000001,England,nation,22/01/2021,433.6
+E92000001,England,nation,21/01/2021,457.8
+E92000001,England,nation,20/01/2021,475.6
+E92000001,England,nation,19/01/2021,489.5
+E92000001,England,nation,18/01/2021,508.6
+E92000001,England,nation,17/01/2021,522.3
+E92000001,England,nation,16/01/2021,549
+E92000001,England,nation,15/01/2021,578.3
+E92000001,England,nation,14/01/2021,597.9
+E92000001,England,nation,13/01/2021,602.3
+E92000001,England,nation,12/01/2021,625.7
+E92000001,England,nation,11/01/2021,650.2
+E92000001,England,nation,10/01/2021,670.4
+E92000001,England,nation,09/01/2021,664.3
+E92000001,England,nation,08/01/2021,655.4
+E92000001,England,nation,07/01/2021,635.8
+E92000001,England,nation,06/01/2021,640.5
+E92000001,England,nation,05/01/2021,618.3
+E92000001,England,nation,04/01/2021,604.5
+E92000001,England,nation,03/01/2021,574.9
+E92000001,England,nation,02/01/2021,537.2
+E92000001,England,nation,01/01/2021,505.3
+E92000001,England,nation,31/12/2020,471.2
+E92000001,England,nation,30/12/2020,446.4
+E92000001,England,nation,29/12/2020,429.9
+E92000001,England,nation,28/12/2020,403.5
+E92000001,England,nation,27/12/2020,389.7
+E92000001,England,nation,26/12/2020,401.3
+E92000001,England,nation,25/12/2020,386.1
+E92000001,England,nation,24/12/2020,373.5
+E92000001,England,nation,23/12/2020,350.1
+E92000001,England,nation,22/12/2020,330.9
+E92000001,England,nation,21/12/2020,302.8
+E92000001,England,nation,20/12/2020,283.5
+E92000001,England,nation,19/12/2020,256.9
+E92000001,England,nation,18/12/2020,247.5
+E92000001,England,nation,17/12/2020,235.8
+E92000001,England,nation,16/12/2020,227.4
+E92000001,England,nation,15/12/2020,208.7
+E92000001,England,nation,14/12/2020,198
+E92000001,England,nation,13/12/2020,186.9
+E92000001,England,nation,12/12/2020,181.8
+E92000001,England,nation,11/12/2020,173.3
+E92000001,England,nation,10/12/2020,165.3
+E92000001,England,nation,09/12/2020,155.3
+E92000001,England,nation,08/12/2020,155.9
+E92000001,England,nation,07/12/2020,158
+E92000001,England,nation,06/12/2020,156.7
+E92000001,England,nation,05/12/2020,149.1
+E92000001,England,nation,04/12/2020,150.3
+E92000001,England,nation,03/12/2020,150.5
+E92000001,England,nation,02/12/2020,155.2
+E92000001,England,nation,01/12/2020,159.8
+E92000001,England,nation,30/11/2020,156.7
+E92000001,England,nation,29/11/2020,161
+E92000001,England,nation,28/11/2020,172.8
+E92000001,England,nation,27/11/2020,180.4
+E92000001,England,nation,26/11/2020,188
+E92000001,England,nation,25/11/2020,198.1
+E92000001,England,nation,24/11/2020,200.4
+E92000001,England,nation,23/11/2020,214.1
+E92000001,England,nation,22/11/2020,224.9
+E92000001,England,nation,21/11/2020,234.4
+E92000001,England,nation,20/11/2020,246.2
+E92000001,England,nation,19/11/2020,258.1
+E92000001,England,nation,18/11/2020,276.9
+E92000001,England,nation,17/11/2020,281.8
+E92000001,England,nation,16/11/2020,283.7
+E92000001,England,nation,15/11/2020,283
+E92000001,England,nation,14/11/2020,276.4
+E92000001,England,nation,13/11/2020,272.1
+E92000001,England,nation,12/11/2020,264.5
+E92000001,England,nation,11/11/2020,247.3
+E92000001,England,nation,10/11/2020,250.7
+E92000001,England,nation,09/11/2020,248.4
+E92000001,England,nation,08/11/2020,242.7
+E92000001,England,nation,07/11/2020,246.8
+E92000001,England,nation,06/11/2020,241.5
+E92000001,England,nation,05/11/2020,242.5
+E92000001,England,nation,04/11/2020,240
+E92000001,England,nation,03/11/2020,238.9
+E92000001,England,nation,02/11/2020,243
+E92000001,England,nation,01/11/2020,246.6
+E92000001,England,nation,31/10/2020,239.3
+E92000001,England,nation,30/10/2020,240.1
+E92000001,England,nation,29/10/2020,233.5
+E92000001,England,nation,28/10/2020,229.3
+E92000001,England,nation,27/10/2020,232.3
+E92000001,England,nation,26/10/2020,229.1
+E92000001,England,nation,25/10/2020,226.4
+E92000001,England,nation,24/10/2020,223.2
+E92000001,England,nation,23/10/2020,212.5
+E92000001,England,nation,22/10/2020,203.7
+E92000001,England,nation,21/10/2020,201.5
+E92000001,England,nation,20/10/2020,189.4
+E92000001,England,nation,19/10/2020,183.2
+E92000001,England,nation,18/10/2020,174.8
+E92000001,England,nation,17/10/2020,167.2
+E92000001,England,nation,16/10/2020,166
+E92000001,England,nation,15/10/2020,163.5
+E92000001,England,nation,14/10/2020,161.4
+E92000001,England,nation,13/10/2020,153.2
+E92000001,England,nation,12/10/2020,150.2
+E92000001,England,nation,11/10/2020,148.5
+E92000001,England,nation,10/10/2020,167.9
+E92000001,England,nation,09/10/2020,164.7
+E92000001,England,nation,08/10/2020,154.1
+E92000001,England,nation,07/10/2020,137.4
+E92000001,England,nation,06/10/2020,127
+E92000001,England,nation,05/10/2020,114.6
+E92000001,England,nation,04/10/2020,101.5
+E92000001,England,nation,03/10/2020,72.2
+E92000001,England,nation,02/10/2020,61.2
+E92000001,England,nation,01/10/2020,62.8
+E92000001,England,nation,30/09/2020,62.9
+E92000001,England,nation,29/09/2020,61.9
+E92000001,England,nation,28/09/2020,59.3
+E92000001,England,nation,27/09/2020,60.1
+E92000001,England,nation,26/09/2020,57.4
+E92000001,England,nation,25/09/2020,55.6
+E92000001,England,nation,24/09/2020,52.1
+E92000001,England,nation,23/09/2020,47.1
+E92000001,England,nation,22/09/2020,44.1
+E92000001,England,nation,21/09/2020,41.4
+E92000001,England,nation,20/09/2020,38.7
+E92000001,England,nation,19/09/2020,37.9
+E92000001,England,nation,18/09/2020,36.8
+E92000001,England,nation,17/09/2020,35.7
+E92000001,England,nation,16/09/2020,35.3
+E92000001,England,nation,15/09/2020,33.3
+E92000001,England,nation,14/09/2020,32.3
+E92000001,England,nation,13/09/2020,32.8
+E92000001,England,nation,12/09/2020,32.4
+E92000001,England,nation,11/09/2020,29.6
+E92000001,England,nation,10/09/2020,27
+E92000001,England,nation,09/09/2020,25.1
+E92000001,England,nation,08/09/2020,23.3
+E92000001,England,nation,07/09/2020,21.4
+E92000001,England,nation,06/09/2020,18.9
+E92000001,England,nation,05/09/2020,17
+E92000001,England,nation,04/09/2020,16
+E92000001,England,nation,03/09/2020,15
+E92000001,England,nation,02/09/2020,14.7
+E92000001,England,nation,01/09/2020,14
+E92000001,England,nation,31/08/2020,14.1
+E92000001,England,nation,30/08/2020,13.4
+E92000001,England,nation,29/08/2020,12.4
+E92000001,England,nation,28/08/2020,12.7
+E92000001,England,nation,27/08/2020,12.4
+E92000001,England,nation,26/08/2020,11.8
+E92000001,England,nation,25/08/2020,11.5
+E92000001,England,nation,24/08/2020,11.3
+E92000001,England,nation,23/08/2020,11.1
+E92000001,England,nation,22/08/2020,11.1
+E92000001,England,nation,21/08/2020,10.9
+E92000001,England,nation,20/08/2020,11.6
+E92000001,England,nation,19/08/2020,11.6
+E92000001,England,nation,18/08/2020,12
+E92000001,England,nation,17/08/2020,12.1
+E92000001,England,nation,16/08/2020,12.2
+E92000001,England,nation,15/08/2020,12.3
+E92000001,England,nation,14/08/2020,11.8
+E92000001,England,nation,13/08/2020,11
+E92000001,England,nation,12/08/2020,10.6
+E92000001,England,nation,11/08/2020,10.4
+E92000001,England,nation,10/08/2020,9.6
+E92000001,England,nation,09/08/2020,9.9
+E92000001,England,nation,08/08/2020,9.3
+E92000001,England,nation,07/08/2020,9.4
+E92000001,England,nation,06/08/2020,9.4
+E92000001,England,nation,05/08/2020,9.4
+E92000001,England,nation,04/08/2020,9.2
+E92000001,England,nation,03/08/2020,9.1
+E92000001,England,nation,02/08/2020,8.7
+E92000001,England,nation,01/08/2020,8.8
+E92000001,England,nation,31/07/2020,8.7
+E92000001,England,nation,30/07/2020,8.5
+E92000001,England,nation,29/07/2020,8.3
+E92000001,England,nation,28/07/2020,8
+E92000001,England,nation,27/07/2020,7.7
+E92000001,England,nation,26/07/2020,7.6
+E92000001,England,nation,25/07/2020,7.5
+E92000001,England,nation,24/07/2020,7.7
+E92000001,England,nation,23/07/2020,7.6
+E92000001,England,nation,22/07/2020,7.4
+E92000001,England,nation,21/07/2020,7.4
+E92000001,England,nation,20/07/2020,7.3
+E92000001,England,nation,19/07/2020,7.2
+E92000001,England,nation,18/07/2020,7.1
+E92000001,England,nation,17/07/2020,7.2
+E92000001,England,nation,16/07/2020,6.9
+E92000001,England,nation,15/07/2020,6.9
+E92000001,England,nation,14/07/2020,7.1
+E92000001,England,nation,13/07/2020,7.4
+E92000001,England,nation,12/07/2020,7.2
+E92000001,England,nation,11/07/2020,6.9
+E92000001,England,nation,10/07/2020,6.5
+E92000001,England,nation,09/07/2020,6.6
+E92000001,England,nation,08/07/2020,6.4
+E92000001,England,nation,07/07/2020,5.6
+E92000001,England,nation,06/07/2020,5
+E92000001,England,nation,05/07/2020,4.6
+E92000001,England,nation,04/07/2020,3.9
+E92000001,England,nation,03/07/2020,3.3
+E92000001,England,nation,02/07/2020,2.7
+E92000001,England,nation,01/07/2020,2.2
+E92000001,England,nation,30/06/2020,2.1
+E92000001,England,nation,29/06/2020,2.1
+E92000001,England,nation,28/06/2020,2.2
+E92000001,England,nation,27/06/2020,2.4
+E92000001,England,nation,26/06/2020,2.6
+E92000001,England,nation,25/06/2020,2.9
+E92000001,England,nation,24/06/2020,2.9
+E92000001,England,nation,23/06/2020,3.2
+E92000001,England,nation,22/06/2020,3.2
+E92000001,England,nation,21/06/2020,3.3
+E92000001,England,nation,20/06/2020,3.5
+E92000001,England,nation,19/06/2020,3.5
+E92000001,England,nation,18/06/2020,3.7
+E92000001,England,nation,17/06/2020,3.7
+E92000001,England,nation,16/06/2020,3.4
+E92000001,England,nation,15/06/2020,4.1
+E92000001,England,nation,14/06/2020,3.8
+E92000001,England,nation,13/06/2020,3.7
+E92000001,England,nation,12/06/2020,3.8
+E92000001,England,nation,11/06/2020,3.9
+E92000001,England,nation,10/06/2020,4.2
+E92000001,England,nation,09/06/2020,4.9
+E92000001,England,nation,08/06/2020,4.5
+E92000001,England,nation,07/06/2020,4.9
+E92000001,England,nation,06/06/2020,5
+E92000001,England,nation,05/06/2020,5.5
+E92000001,England,nation,04/06/2020,5.7
+E92000001,England,nation,03/06/2020,5.9
+E92000001,England,nation,02/06/2020,6.1
+E92000001,England,nation,01/06/2020,6.2
+E92000001,England,nation,31/05/2020,6.6
+E92000001,England,nation,30/05/2020,7.1
+E92000001,England,nation,29/05/2020,7.5
+E92000001,England,nation,28/05/2020,8.5
+E92000001,England,nation,27/05/2020,9.1
+E92000001,England,nation,26/05/2020,9.4
+E92000001,England,nation,25/05/2020,10.1
+E92000001,England,nation,24/05/2020,10.7
+E92000001,England,nation,23/05/2020,11
+E92000001,England,nation,22/05/2020,11.3
+E92000001,England,nation,21/05/2020,11.3
+E92000001,England,nation,20/05/2020,11.9
+E92000001,England,nation,19/05/2020,12.5
+E92000001,England,nation,18/05/2020,12.9
+E92000001,England,nation,17/05/2020,13
+E92000001,England,nation,16/05/2020,13.4
+E92000001,England,nation,15/05/2020,13.8
+E92000001,England,nation,14/05/2020,14.8
+E92000001,England,nation,13/05/2020,16.5
+E92000001,England,nation,12/05/2020,17.3
+E92000001,England,nation,11/05/2020,18.7
+E92000001,England,nation,10/05/2020,19.8
+E92000001,England,nation,09/05/2020,21.6
+E92000001,England,nation,08/05/2020,23.1
+E92000001,England,nation,07/05/2020,24.6
+E92000001,England,nation,06/05/2020,25.2
+E92000001,England,nation,05/05/2020,24.8
+E92000001,England,nation,04/05/2020,25.1
+E92000001,England,nation,03/05/2020,26.5
+E92000001,England,nation,02/05/2020,26.7
+E92000001,England,nation,01/05/2020,27.7
+E92000001,England,nation,30/04/2020,28.6
+E92000001,England,nation,29/04/2020,29.7
+E92000001,England,nation,28/04/2020,32.6
+E92000001,England,nation,27/04/2020,34.5
+E92000001,England,nation,26/04/2020,34.8
+E92000001,England,nation,25/04/2020,37.4
+E92000001,England,nation,24/04/2020,38.6
+E92000001,England,nation,23/04/2020,40.4
+E92000001,England,nation,22/04/2020,40.4
+E92000001,England,nation,21/04/2020,40.7
+E92000001,England,nation,20/04/2020,42.1
+E92000001,England,nation,19/04/2020,43.2
+E92000001,England,nation,18/04/2020,43.3
+E92000001,England,nation,17/04/2020,43.8
+E92000001,England,nation,16/04/2020,44.3
+E92000001,England,nation,15/04/2020,45.5
+E92000001,England,nation,14/04/2020,48.4
+E92000001,England,nation,13/04/2020,46.8
+E92000001,England,nation,12/04/2020,47.1
+E92000001,England,nation,11/04/2020,49.7
+E92000001,England,nation,10/04/2020,48
+E92000001,England,nation,09/04/2020,46.8
+E92000001,England,nation,08/04/2020,46.4
+E92000001,England,nation,07/04/2020,44.3
+E92000001,England,nation,06/04/2020,43.3
+E92000001,England,nation,05/04/2020,41.4
+E92000001,England,nation,04/04/2020,36
+E92000001,England,nation,03/04/2020,34.7
+E92000001,England,nation,02/04/2020,32.8
+E92000001,England,nation,01/04/2020,29.6
+E92000001,England,nation,31/03/2020,25.2
+E92000001,England,nation,30/03/2020,23.1
+E92000001,England,nation,29/03/2020,20.8
+E92000001,England,nation,28/03/2020,18.1
+E92000001,England,nation,27/03/2020,15.8
+E92000001,England,nation,26/03/2020,12.5
+E92000001,England,nation,25/03/2020,10.3
+E92000001,England,nation,24/03/2020,9.4
+E92000001,England,nation,23/03/2020,7.8
+E92000001,England,nation,22/03/2020,6.6
+E92000001,England,nation,21/03/2020,6.1
+E92000001,England,nation,20/03/2020,4.9
+E92000001,England,nation,19/03/2020,4
+E92000001,England,nation,18/03/2020,3.2
+E92000001,England,nation,17/03/2020,2.2
+E92000001,England,nation,16/03/2020,1.6
+E92000001,England,nation,15/03/2020,1.5
+E92000001,England,nation,14/03/2020,1.2
+E92000001,England,nation,13/03/2020,0.9
+E92000001,England,nation,12/03/2020,0.7
+E92000001,England,nation,11/03/2020,0.6
+E92000001,England,nation,10/03/2020,0.5
+E92000001,England,nation,09/03/2020,0.4
+E92000001,England,nation,08/03/2020,0.4
+E92000001,England,nation,07/03/2020,0.3
+E92000001,England,nation,06/03/2020,0.2
+E92000001,England,nation,05/03/2020,0.2
+E92000001,England,nation,04/03/2020,0.1
+E92000001,England,nation,03/03/2020,0.1
+N92000002,Northern Ireland,nation,26/07/2021,491.2
+N92000002,Northern Ireland,nation,25/07/2021,551.2
+N92000002,Northern Ireland,nation,24/07/2021,512.8
+N92000002,Northern Ireland,nation,23/07/2021,506.6
+N92000002,Northern Ireland,nation,22/07/2021,508.9
+N92000002,Northern Ireland,nation,21/07/2021,490.5
+N92000002,Northern Ireland,nation,20/07/2021,419.9
+N92000002,Northern Ireland,nation,19/07/2021,386.8
+N92000002,Northern Ireland,nation,18/07/2021,320.9
+N92000002,Northern Ireland,nation,17/07/2021,324.5
+N92000002,Northern Ireland,nation,16/07/2021,274
+N92000002,Northern Ireland,nation,15/07/2021,233
+N92000002,Northern Ireland,nation,14/07/2021,209
+N92000002,Northern Ireland,nation,13/07/2021,205.5
+N92000002,Northern Ireland,nation,12/07/2021,200.5
+N92000002,Northern Ireland,nation,11/07/2021,194.8
+N92000002,Northern Ireland,nation,10/07/2021,191
+N92000002,Northern Ireland,nation,09/07/2021,191.8
+N92000002,Northern Ireland,nation,08/07/2021,177.8
+N92000002,Northern Ireland,nation,07/07/2021,161.9
+N92000002,Northern Ireland,nation,06/07/2021,151.6
+N92000002,Northern Ireland,nation,05/07/2021,144.2
+N92000002,Northern Ireland,nation,04/07/2021,133.2
+N92000002,Northern Ireland,nation,03/07/2021,118.8
+N92000002,Northern Ireland,nation,02/07/2021,110.3
+N92000002,Northern Ireland,nation,01/07/2021,104.5
+N92000002,Northern Ireland,nation,30/06/2021,97.7
+N92000002,Northern Ireland,nation,29/06/2021,87.8
+N92000002,Northern Ireland,nation,28/06/2021,83
+N92000002,Northern Ireland,nation,27/06/2021,78.9
+N92000002,Northern Ireland,nation,26/06/2021,71.7
+N92000002,Northern Ireland,nation,25/06/2021,64.3
+N92000002,Northern Ireland,nation,24/06/2021,61.6
+N92000002,Northern Ireland,nation,23/06/2021,60.6
+N92000002,Northern Ireland,nation,22/06/2021,58.2
+N92000002,Northern Ireland,nation,21/06/2021,54.4
+N92000002,Northern Ireland,nation,20/06/2021,52
+N92000002,Northern Ireland,nation,19/06/2021,49.1
+N92000002,Northern Ireland,nation,18/06/2021,46.4
+N92000002,Northern Ireland,nation,17/06/2021,43.4
+N92000002,Northern Ireland,nation,16/06/2021,39.7
+N92000002,Northern Ireland,nation,15/06/2021,37.7
+N92000002,Northern Ireland,nation,14/06/2021,35.9
+N92000002,Northern Ireland,nation,13/06/2021,34.2
+N92000002,Northern Ireland,nation,12/06/2021,34.1
+N92000002,Northern Ireland,nation,11/06/2021,33.5
+N92000002,Northern Ireland,nation,10/06/2021,30.9
+N92000002,Northern Ireland,nation,09/06/2021,29.4
+N92000002,Northern Ireland,nation,08/06/2021,28.3
+N92000002,Northern Ireland,nation,07/06/2021,26.9
+N92000002,Northern Ireland,nation,06/06/2021,26.1
+N92000002,Northern Ireland,nation,05/06/2021,25.8
+N92000002,Northern Ireland,nation,04/06/2021,24.3
+N92000002,Northern Ireland,nation,03/06/2021,24.4
+N92000002,Northern Ireland,nation,02/06/2021,24.7
+N92000002,Northern Ireland,nation,01/06/2021,23.7
+N92000002,Northern Ireland,nation,31/05/2021,24.8
+N92000002,Northern Ireland,nation,30/05/2021,25.6
+N92000002,Northern Ireland,nation,29/05/2021,26.3
+N92000002,Northern Ireland,nation,28/05/2021,27
+N92000002,Northern Ireland,nation,27/05/2021,27.5
+N92000002,Northern Ireland,nation,26/05/2021,27.8
+N92000002,Northern Ireland,nation,25/05/2021,30
+N92000002,Northern Ireland,nation,24/05/2021,31.5
+N92000002,Northern Ireland,nation,23/05/2021,33.1
+N92000002,Northern Ireland,nation,22/05/2021,34.7
+N92000002,Northern Ireland,nation,21/05/2021,30.4
+N92000002,Northern Ireland,nation,20/05/2021,31.1
+N92000002,Northern Ireland,nation,19/05/2021,31.5
+N92000002,Northern Ireland,nation,18/05/2021,31.8
+N92000002,Northern Ireland,nation,17/05/2021,31.1
+N92000002,Northern Ireland,nation,16/05/2021,30.7
+N92000002,Northern Ireland,nation,15/05/2021,30.2
+N92000002,Northern Ireland,nation,14/05/2021,34.4
+N92000002,Northern Ireland,nation,13/05/2021,32.8
+N92000002,Northern Ireland,nation,12/05/2021,33
+N92000002,Northern Ireland,nation,11/05/2021,32.2
+N92000002,Northern Ireland,nation,10/05/2021,31.9
+N92000002,Northern Ireland,nation,09/05/2021,31.3
+N92000002,Northern Ireland,nation,08/05/2021,29.7
+N92000002,Northern Ireland,nation,07/05/2021,30.2
+N92000002,Northern Ireland,nation,06/05/2021,32.5
+N92000002,Northern Ireland,nation,05/05/2021,32.1
+N92000002,Northern Ireland,nation,04/05/2021,32.1
+N92000002,Northern Ireland,nation,03/05/2021,33.4
+N92000002,Northern Ireland,nation,02/05/2021,33.9
+N92000002,Northern Ireland,nation,01/05/2021,34.1
+N92000002,Northern Ireland,nation,30/04/2021,33.6
+N92000002,Northern Ireland,nation,29/04/2021,32.5
+N92000002,Northern Ireland,nation,28/04/2021,33.8
+N92000002,Northern Ireland,nation,27/04/2021,34.8
+N92000002,Northern Ireland,nation,26/04/2021,35.6
+N92000002,Northern Ireland,nation,25/04/2021,35.9
+N92000002,Northern Ireland,nation,24/04/2021,36.4
+N92000002,Northern Ireland,nation,23/04/2021,37.4
+N92000002,Northern Ireland,nation,22/04/2021,39
+N92000002,Northern Ireland,nation,21/04/2021,41.1
+N92000002,Northern Ireland,nation,20/04/2021,40.1
+N92000002,Northern Ireland,nation,19/04/2021,39.4
+N92000002,Northern Ireland,nation,18/04/2021,40.4
+N92000002,Northern Ireland,nation,17/04/2021,40.8
+N92000002,Northern Ireland,nation,16/04/2021,43.2
+N92000002,Northern Ireland,nation,15/04/2021,42.9
+N92000002,Northern Ireland,nation,14/04/2021,39.7
+N92000002,Northern Ireland,nation,13/04/2021,39.2
+N92000002,Northern Ireland,nation,12/04/2021,36.3
+N92000002,Northern Ireland,nation,11/04/2021,35.9
+N92000002,Northern Ireland,nation,10/04/2021,31.2
+N92000002,Northern Ireland,nation,09/04/2021,27.9
+N92000002,Northern Ireland,nation,08/04/2021,27.6
+N92000002,Northern Ireland,nation,07/04/2021,28.1
+N92000002,Northern Ireland,nation,06/04/2021,29.9
+N92000002,Northern Ireland,nation,05/04/2021,34.9
+N92000002,Northern Ireland,nation,04/04/2021,33.6
+N92000002,Northern Ireland,nation,03/04/2021,39.8
+N92000002,Northern Ireland,nation,02/04/2021,42.6
+N92000002,Northern Ireland,nation,01/04/2021,46.5
+N92000002,Northern Ireland,nation,31/03/2021,50.5
+N92000002,Northern Ireland,nation,30/03/2021,51.4
+N92000002,Northern Ireland,nation,29/03/2021,52.6
+N92000002,Northern Ireland,nation,28/03/2021,53.8
+N92000002,Northern Ireland,nation,27/03/2021,54.2
+N92000002,Northern Ireland,nation,26/03/2021,55.3
+N92000002,Northern Ireland,nation,25/03/2021,53
+N92000002,Northern Ireland,nation,24/03/2021,52.3
+N92000002,Northern Ireland,nation,23/03/2021,53.4
+N92000002,Northern Ireland,nation,22/03/2021,52.9
+N92000002,Northern Ireland,nation,21/03/2021,54.7
+N92000002,Northern Ireland,nation,20/03/2021,55.7
+N92000002,Northern Ireland,nation,19/03/2021,55
+N92000002,Northern Ireland,nation,18/03/2021,58.7
+N92000002,Northern Ireland,nation,17/03/2021,61.6
+N92000002,Northern Ireland,nation,16/03/2021,60.8
+N92000002,Northern Ireland,nation,15/03/2021,64.8
+N92000002,Northern Ireland,nation,14/03/2021,66.1
+N92000002,Northern Ireland,nation,13/03/2021,65.8
+N92000002,Northern Ireland,nation,12/03/2021,67.2
+N92000002,Northern Ireland,nation,11/03/2021,65
+N92000002,Northern Ireland,nation,10/03/2021,61.8
+N92000002,Northern Ireland,nation,09/03/2021,66
+N92000002,Northern Ireland,nation,08/03/2021,61.2
+N92000002,Northern Ireland,nation,07/03/2021,60.8
+N92000002,Northern Ireland,nation,06/03/2021,60.7
+N92000002,Northern Ireland,nation,05/03/2021,61.4
+N92000002,Northern Ireland,nation,04/03/2021,65.3
+N92000002,Northern Ireland,nation,03/03/2021,71.6
+N92000002,Northern Ireland,nation,02/03/2021,73.3
+N92000002,Northern Ireland,nation,01/03/2021,77.4
+N92000002,Northern Ireland,nation,28/02/2021,80
+N92000002,Northern Ireland,nation,27/02/2021,86.7
+N92000002,Northern Ireland,nation,26/02/2021,91.5
+N92000002,Northern Ireland,nation,25/02/2021,95.3
+N92000002,Northern Ireland,nation,24/02/2021,98.5
+N92000002,Northern Ireland,nation,23/02/2021,100.5
+N92000002,Northern Ireland,nation,22/02/2021,106.6
+N92000002,Northern Ireland,nation,21/02/2021,109.1
+N92000002,Northern Ireland,nation,20/02/2021,104.5
+N92000002,Northern Ireland,nation,19/02/2021,105.9
+N92000002,Northern Ireland,nation,18/02/2021,110.9
+N92000002,Northern Ireland,nation,17/02/2021,106.2
+N92000002,Northern Ireland,nation,16/02/2021,108.3
+N92000002,Northern Ireland,nation,15/02/2021,104.8
+N92000002,Northern Ireland,nation,14/02/2021,108
+N92000002,Northern Ireland,nation,13/02/2021,116.4
+N92000002,Northern Ireland,nation,12/02/2021,121
+N92000002,Northern Ireland,nation,11/02/2021,126.2
+N92000002,Northern Ireland,nation,10/02/2021,134.6
+N92000002,Northern Ireland,nation,09/02/2021,143.5
+N92000002,Northern Ireland,nation,08/02/2021,152.6
+N92000002,Northern Ireland,nation,07/02/2021,153.5
+N92000002,Northern Ireland,nation,06/02/2021,158.4
+N92000002,Northern Ireland,nation,05/02/2021,161.8
+N92000002,Northern Ireland,nation,04/02/2021,170.4
+N92000002,Northern Ireland,nation,03/02/2021,179.9
+N92000002,Northern Ireland,nation,02/02/2021,181.1
+N92000002,Northern Ireland,nation,01/02/2021,186.6
+N92000002,Northern Ireland,nation,31/01/2021,192.3
+N92000002,Northern Ireland,nation,30/01/2021,192.6
+N92000002,Northern Ireland,nation,29/01/2021,204
+N92000002,Northern Ireland,nation,28/01/2021,214.3
+N92000002,Northern Ireland,nation,27/01/2021,221.7
+N92000002,Northern Ireland,nation,26/01/2021,241.7
+N92000002,Northern Ireland,nation,25/01/2021,250.3
+N92000002,Northern Ireland,nation,24/01/2021,261.8
+N92000002,Northern Ireland,nation,23/01/2021,282.4
+N92000002,Northern Ireland,nation,22/01/2021,284.2
+N92000002,Northern Ireland,nation,21/01/2021,294.1
+N92000002,Northern Ireland,nation,20/01/2021,306.8
+N92000002,Northern Ireland,nation,19/01/2021,319.5
+N92000002,Northern Ireland,nation,18/01/2021,345.5
+N92000002,Northern Ireland,nation,17/01/2021,351.8
+N92000002,Northern Ireland,nation,16/01/2021,367.1
+N92000002,Northern Ireland,nation,15/01/2021,406
+N92000002,Northern Ireland,nation,14/01/2021,429.6
+N92000002,Northern Ireland,nation,13/01/2021,452.7
+N92000002,Northern Ireland,nation,12/01/2021,497.1
+N92000002,Northern Ireland,nation,11/01/2021,506.2
+N92000002,Northern Ireland,nation,10/01/2021,561.2
+N92000002,Northern Ireland,nation,09/01/2021,590.3
+N92000002,Northern Ireland,nation,08/01/2021,703
+N92000002,Northern Ireland,nation,07/01/2021,623.8
+N92000002,Northern Ireland,nation,06/01/2021,651.2
+N92000002,Northern Ireland,nation,05/01/2021,659.5
+N92000002,Northern Ireland,nation,04/01/2021,669.4
+N92000002,Northern Ireland,nation,03/01/2021,660.6
+N92000002,Northern Ireland,nation,02/01/2021,572.9
+N92000002,Northern Ireland,nation,01/01/2021,436.7
+N92000002,Northern Ireland,nation,31/12/2020,436.7
+N92000002,Northern Ireland,nation,30/12/2020,379.3
+N92000002,Northern Ireland,nation,29/12/2020,307.7
+N92000002,Northern Ireland,nation,28/12/2020,248.1
+N92000002,Northern Ireland,nation,27/12/2020,191.2
+N92000002,Northern Ireland,nation,26/12/2020,217.8
+N92000002,Northern Ireland,nation,25/12/2020,198.9
+N92000002,Northern Ireland,nation,24/12/2020,225.9
+N92000002,Northern Ireland,nation,23/12/2020,216.1
+N92000002,Northern Ireland,nation,22/12/2020,201.5
+N92000002,Northern Ireland,nation,21/12/2020,203.9
+N92000002,Northern Ireland,nation,20/12/2020,196.8
+N92000002,Northern Ireland,nation,19/12/2020,195.6
+N92000002,Northern Ireland,nation,18/12/2020,186.9
+N92000002,Northern Ireland,nation,17/12/2020,188.4
+N92000002,Northern Ireland,nation,16/12/2020,177.1
+N92000002,Northern Ireland,nation,15/12/2020,175.6
+N92000002,Northern Ireland,nation,14/12/2020,168.5
+N92000002,Northern Ireland,nation,13/12/2020,167.3
+N92000002,Northern Ireland,nation,12/12/2020,164
+N92000002,Northern Ireland,nation,11/12/2020,162.6
+N92000002,Northern Ireland,nation,10/12/2020,157.9
+N92000002,Northern Ireland,nation,09/12/2020,158.7
+N92000002,Northern Ireland,nation,08/12/2020,155.2
+N92000002,Northern Ireland,nation,07/12/2020,157.3
+N92000002,Northern Ireland,nation,06/12/2020,151.7
+N92000002,Northern Ireland,nation,05/12/2020,148.1
+N92000002,Northern Ireland,nation,04/12/2020,140.9
+N92000002,Northern Ireland,nation,03/12/2020,137.8
+N92000002,Northern Ireland,nation,02/12/2020,137.1
+N92000002,Northern Ireland,nation,01/12/2020,143.3
+N92000002,Northern Ireland,nation,30/11/2020,126.8
+N92000002,Northern Ireland,nation,29/11/2020,126.3
+N92000002,Northern Ireland,nation,28/11/2020,125.8
+N92000002,Northern Ireland,nation,27/11/2020,128
+N92000002,Northern Ireland,nation,26/11/2020,126.8
+N92000002,Northern Ireland,nation,25/11/2020,129.2
+N92000002,Northern Ireland,nation,24/11/2020,128.4
+N92000002,Northern Ireland,nation,23/11/2020,153.2
+N92000002,Northern Ireland,nation,22/11/2020,155.9
+N92000002,Northern Ireland,nation,21/11/2020,162.8
+N92000002,Northern Ireland,nation,20/11/2020,170.9
+N92000002,Northern Ireland,nation,19/11/2020,183.5
+N92000002,Northern Ireland,nation,18/11/2020,186.7
+N92000002,Northern Ireland,nation,17/11/2020,201.1
+N92000002,Northern Ireland,nation,16/11/2020,199.3
+N92000002,Northern Ireland,nation,15/11/2020,206.7
+N92000002,Northern Ireland,nation,14/11/2020,203.9
+N92000002,Northern Ireland,nation,13/11/2020,204.8
+N92000002,Northern Ireland,nation,12/11/2020,204.2
+N92000002,Northern Ireland,nation,11/11/2020,202.5
+N92000002,Northern Ireland,nation,10/11/2020,196.6
+N92000002,Northern Ireland,nation,09/11/2020,199.6
+N92000002,Northern Ireland,nation,08/11/2020,200.7
+N92000002,Northern Ireland,nation,07/11/2020,214.7
+N92000002,Northern Ireland,nation,06/11/2020,221.1
+N92000002,Northern Ireland,nation,05/11/2020,219.6
+N92000002,Northern Ireland,nation,04/11/2020,235.7
+N92000002,Northern Ireland,nation,03/11/2020,244.2
+N92000002,Northern Ireland,nation,02/11/2020,252.3
+N92000002,Northern Ireland,nation,01/11/2020,264.6
+N92000002,Northern Ireland,nation,31/10/2020,275.8
+N92000002,Northern Ireland,nation,30/10/2020,290.2
+N92000002,Northern Ireland,nation,29/10/2020,326.5
+N92000002,Northern Ireland,nation,28/10/2020,338.1
+N92000002,Northern Ireland,nation,27/10/2020,348.6
+N92000002,Northern Ireland,nation,26/10/2020,358.7
+N92000002,Northern Ireland,nation,25/10/2020,363.6
+N92000002,Northern Ireland,nation,24/10/2020,369.7
+N92000002,Northern Ireland,nation,23/10/2020,375.4
+N92000002,Northern Ireland,nation,22/10/2020,377.9
+N92000002,Northern Ireland,nation,21/10/2020,363.2
+N92000002,Northern Ireland,nation,20/10/2020,372.6
+N92000002,Northern Ireland,nation,19/10/2020,369.9
+N92000002,Northern Ireland,nation,18/10/2020,372.9
+N92000002,Northern Ireland,nation,17/10/2020,375.8
+N92000002,Northern Ireland,nation,16/10/2020,369
+N92000002,Northern Ireland,nation,15/10/2020,357.4
+N92000002,Northern Ireland,nation,14/10/2020,365.9
+N92000002,Northern Ireland,nation,13/10/2020,345.3
+N92000002,Northern Ireland,nation,12/10/2020,335.1
+N92000002,Northern Ireland,nation,11/10/2020,321.3
+N92000002,Northern Ireland,nation,10/10/2020,289.4
+N92000002,Northern Ireland,nation,09/10/2020,280.1
+N92000002,Northern Ireland,nation,08/10/2020,272.4
+N92000002,Northern Ireland,nation,07/10/2020,237.3
+N92000002,Northern Ireland,nation,06/10/2020,216
+N92000002,Northern Ireland,nation,05/10/2020,197.6
+N92000002,Northern Ireland,nation,04/10/2020,176.6
+N92000002,Northern Ireland,nation,03/10/2020,162.1
+N92000002,Northern Ireland,nation,02/10/2020,140.6
+N92000002,Northern Ireland,nation,01/10/2020,105.7
+N92000002,Northern Ireland,nation,30/09/2020,102
+N92000002,Northern Ireland,nation,29/09/2020,91.3
+N92000002,Northern Ireland,nation,28/09/2020,78.3
+N92000002,Northern Ireland,nation,27/09/2020,73.3
+N92000002,Northern Ireland,nation,26/09/2020,72.7
+N92000002,Northern Ireland,nation,25/09/2020,67.6
+N92000002,Northern Ireland,nation,24/09/2020,61.8
+N92000002,Northern Ireland,nation,23/09/2020,59.7
+N92000002,Northern Ireland,nation,22/09/2020,54.9
+N92000002,Northern Ireland,nation,21/09/2020,55.1
+N92000002,Northern Ireland,nation,20/09/2020,54.2
+N92000002,Northern Ireland,nation,19/09/2020,49.5
+N92000002,Northern Ireland,nation,18/09/2020,43.3
+N92000002,Northern Ireland,nation,17/09/2020,39.3
+N92000002,Northern Ireland,nation,16/09/2020,35.6
+N92000002,Northern Ireland,nation,15/09/2020,31.4
+N92000002,Northern Ireland,nation,14/09/2020,29.3
+N92000002,Northern Ireland,nation,13/09/2020,31
+N92000002,Northern Ireland,nation,12/09/2020,32
+N92000002,Northern Ireland,nation,11/09/2020,32.7
+N92000002,Northern Ireland,nation,10/09/2020,31.3
+N92000002,Northern Ireland,nation,09/09/2020,31.3
+N92000002,Northern Ireland,nation,08/09/2020,32.4
+N92000002,Northern Ireland,nation,07/09/2020,32.9
+N92000002,Northern Ireland,nation,06/09/2020,28.5
+N92000002,Northern Ireland,nation,05/09/2020,25.5
+N92000002,Northern Ireland,nation,04/09/2020,24
+N92000002,Northern Ireland,nation,03/09/2020,25.2
+N92000002,Northern Ireland,nation,02/09/2020,24.8
+N92000002,Northern Ireland,nation,01/09/2020,24.9
+N92000002,Northern Ireland,nation,31/08/2020,24.8
+N92000002,Northern Ireland,nation,30/08/2020,22.2
+N92000002,Northern Ireland,nation,29/08/2020,25.9
+N92000002,Northern Ireland,nation,28/08/2020,25
+N92000002,Northern Ireland,nation,27/08/2020,21.5
+N92000002,Northern Ireland,nation,26/08/2020,20.6
+N92000002,Northern Ireland,nation,25/08/2020,18.6
+N92000002,Northern Ireland,nation,24/08/2020,18.3
+N92000002,Northern Ireland,nation,23/08/2020,19.8
+N92000002,Northern Ireland,nation,22/08/2020,14.9
+N92000002,Northern Ireland,nation,21/08/2020,14.6
+N92000002,Northern Ireland,nation,20/08/2020,17.5
+N92000002,Northern Ireland,nation,19/08/2020,15.2
+N92000002,Northern Ireland,nation,18/08/2020,14.9
+N92000002,Northern Ireland,nation,17/08/2020,15.3
+N92000002,Northern Ireland,nation,16/08/2020,13.3
+N92000002,Northern Ireland,nation,15/08/2020,11.8
+N92000002,Northern Ireland,nation,14/08/2020,8.4
+N92000002,Northern Ireland,nation,13/08/2020,5.3
+N92000002,Northern Ireland,nation,12/08/2020,7.1
+N92000002,Northern Ireland,nation,11/08/2020,6.1
+N92000002,Northern Ireland,nation,10/08/2020,4
+N92000002,Northern Ireland,nation,09/08/2020,4
+N92000002,Northern Ireland,nation,08/08/2020,4
+N92000002,Northern Ireland,nation,07/08/2020,4
+N92000002,Northern Ireland,nation,06/08/2020,3.7
+N92000002,Northern Ireland,nation,05/08/2020,1.9
+N92000002,Northern Ireland,nation,04/08/2020,1.8
+N92000002,Northern Ireland,nation,03/08/2020,1.9
+N92000002,Northern Ireland,nation,02/08/2020,1.9
+N92000002,Northern Ireland,nation,01/08/2020,1.9
+N92000002,Northern Ireland,nation,31/07/2020,1.9
+N92000002,Northern Ireland,nation,30/07/2020,2.2
+N92000002,Northern Ireland,nation,29/07/2020,2.2
+N92000002,Northern Ireland,nation,28/07/2020,2.2
+N92000002,Northern Ireland,nation,27/07/2020,1.8
+N92000002,Northern Ireland,nation,26/07/2020,1.8
+N92000002,Northern Ireland,nation,25/07/2020,1.8
+N92000002,Northern Ireland,nation,24/07/2020,1.8
+N92000002,Northern Ireland,nation,23/07/2020,2
+N92000002,Northern Ireland,nation,22/07/2020,2.4
+N92000002,Northern Ireland,nation,21/07/2020,2.4
+N92000002,Northern Ireland,nation,20/07/2020,2.4
+N92000002,Northern Ireland,nation,19/07/2020,2.4
+N92000002,Northern Ireland,nation,18/07/2020,2.4
+N92000002,Northern Ireland,nation,17/07/2020,2.4
+N92000002,Northern Ireland,nation,16/07/2020,1.6
+N92000002,Northern Ireland,nation,15/07/2020,1
+N92000002,Northern Ireland,nation,14/07/2020,0.7
+N92000002,Northern Ireland,nation,13/07/2020,0.8
+N92000002,Northern Ireland,nation,12/07/2020,0.8
+N92000002,Northern Ireland,nation,11/07/2020,0.8
+N92000002,Northern Ireland,nation,10/07/2020,0.8
+N92000002,Northern Ireland,nation,09/07/2020,0.8
+N92000002,Northern Ireland,nation,08/07/2020,1.1
+N92000002,Northern Ireland,nation,07/07/2020,0.9
+N92000002,Northern Ireland,nation,06/07/2020,0.8
+N92000002,Northern Ireland,nation,05/07/2020,1.1
+N92000002,Northern Ireland,nation,04/07/2020,1.2
+N92000002,Northern Ireland,nation,03/07/2020,1.3
+N92000002,Northern Ireland,nation,02/07/2020,1.3
+N92000002,Northern Ireland,nation,01/07/2020,1
+N92000002,Northern Ireland,nation,30/06/2020,1
+N92000002,Northern Ireland,nation,29/06/2020,0.8
+N92000002,Northern Ireland,nation,28/06/2020,0.6
+N92000002,Northern Ireland,nation,27/06/2020,0.7
+N92000002,Northern Ireland,nation,26/06/2020,0.6
+N92000002,Northern Ireland,nation,25/06/2020,0.6
+N92000002,Northern Ireland,nation,24/06/2020,0.6
+N92000002,Northern Ireland,nation,23/06/2020,0.9
+N92000002,Northern Ireland,nation,22/06/2020,1
+N92000002,Northern Ireland,nation,21/06/2020,1.2
+N92000002,Northern Ireland,nation,20/06/2020,1.3
+N92000002,Northern Ireland,nation,19/06/2020,1.5
+N92000002,Northern Ireland,nation,18/06/2020,2.2
+N92000002,Northern Ireland,nation,17/06/2020,2.3
+N92000002,Northern Ireland,nation,16/06/2020,2.6
+N92000002,Northern Ireland,nation,15/06/2020,2.6
+N92000002,Northern Ireland,nation,14/06/2020,2.7
+N92000002,Northern Ireland,nation,13/06/2020,2.7
+N92000002,Northern Ireland,nation,12/06/2020,3.3
+N92000002,Northern Ireland,nation,11/06/2020,2.6
+N92000002,Northern Ireland,nation,10/06/2020,4.1
+N92000002,Northern Ireland,nation,09/06/2020,3.9
+N92000002,Northern Ireland,nation,08/06/2020,3.9
+N92000002,Northern Ireland,nation,07/06/2020,4.2
+N92000002,Northern Ireland,nation,06/06/2020,4.3
+N92000002,Northern Ireland,nation,05/06/2020,4.2
+N92000002,Northern Ireland,nation,04/06/2020,5
+N92000002,Northern Ireland,nation,03/06/2020,4.1
+N92000002,Northern Ireland,nation,02/06/2020,5
+N92000002,Northern Ireland,nation,01/06/2020,6.3
+N92000002,Northern Ireland,nation,31/05/2020,7.7
+N92000002,Northern Ireland,nation,30/05/2020,8.7
+N92000002,Northern Ireland,nation,29/05/2020,10.1
+N92000002,Northern Ireland,nation,28/05/2020,10.5
+N92000002,Northern Ireland,nation,27/05/2020,11.8
+N92000002,Northern Ireland,nation,26/05/2020,11.4
+N92000002,Northern Ireland,nation,25/05/2020,11
+N92000002,Northern Ireland,nation,24/05/2020,9.8
+N92000002,Northern Ireland,nation,23/05/2020,9.9
+N92000002,Northern Ireland,nation,22/05/2020,9.9
+N92000002,Northern Ireland,nation,21/05/2020,10
+N92000002,Northern Ireland,nation,20/05/2020,9.8
+N92000002,Northern Ireland,nation,19/05/2020,12
+N92000002,Northern Ireland,nation,18/05/2020,13.3
+N92000002,Northern Ireland,nation,17/05/2020,14
+N92000002,Northern Ireland,nation,16/05/2020,14.7
+N92000002,Northern Ireland,nation,15/05/2020,15.6
+N92000002,Northern Ireland,nation,14/05/2020,16.2
+N92000002,Northern Ireland,nation,13/05/2020,16.8
+N92000002,Northern Ireland,nation,12/05/2020,16.5
+N92000002,Northern Ireland,nation,11/05/2020,16.5
+N92000002,Northern Ireland,nation,10/05/2020,18.6
+N92000002,Northern Ireland,nation,09/05/2020,20.5
+N92000002,Northern Ireland,nation,08/05/2020,21.1
+N92000002,Northern Ireland,nation,07/05/2020,23.7
+N92000002,Northern Ireland,nation,06/05/2020,24.9
+N92000002,Northern Ireland,nation,05/05/2020,25
+N92000002,Northern Ireland,nation,04/05/2020,24.4
+N92000002,Northern Ireland,nation,03/05/2020,24.2
+N92000002,Northern Ireland,nation,02/05/2020,24.4
+N92000002,Northern Ireland,nation,01/05/2020,26.5
+N92000002,Northern Ireland,nation,30/04/2020,27.5
+N92000002,Northern Ireland,nation,29/04/2020,31.1
+N92000002,Northern Ireland,nation,28/04/2020,34.3
+N92000002,Northern Ireland,nation,27/04/2020,34.1
+N92000002,Northern Ireland,nation,26/04/2020,35
+N92000002,Northern Ireland,nation,25/04/2020,39.1
+N92000002,Northern Ireland,nation,24/04/2020,41.4
+N92000002,Northern Ireland,nation,23/04/2020,43
+N92000002,Northern Ireland,nation,22/04/2020,41.5
+N92000002,Northern Ireland,nation,21/04/2020,41.8
+N92000002,Northern Ireland,nation,20/04/2020,44.7
+N92000002,Northern Ireland,nation,19/04/2020,44.3
+N92000002,Northern Ireland,nation,18/04/2020,40.6
+N92000002,Northern Ireland,nation,17/04/2020,39.6
+N92000002,Northern Ireland,nation,16/04/2020,38.2
+N92000002,Northern Ireland,nation,15/04/2020,39.6
+N92000002,Northern Ireland,nation,14/04/2020,37.6
+N92000002,Northern Ireland,nation,13/04/2020,38.2
+N92000002,Northern Ireland,nation,12/04/2020,37.9
+N92000002,Northern Ireland,nation,11/04/2020,38
+N92000002,Northern Ireland,nation,10/04/2020,36.2
+N92000002,Northern Ireland,nation,09/04/2020,37.1
+N92000002,Northern Ireland,nation,08/04/2020,34.3
+N92000002,Northern Ireland,nation,07/04/2020,35.3
+N92000002,Northern Ireland,nation,06/04/2020,33
+N92000002,Northern Ireland,nation,05/04/2020,35.9
+N92000002,Northern Ireland,nation,04/04/2020,35.6
+N92000002,Northern Ireland,nation,03/04/2020,33.2
+N92000002,Northern Ireland,nation,02/04/2020,28.1
+N92000002,Northern Ireland,nation,01/04/2020,25.3
+N92000002,Northern Ireland,nation,31/03/2020,21.9
+N92000002,Northern Ireland,nation,30/03/2020,20.3
+N92000002,Northern Ireland,nation,29/03/2020,14.9
+N92000002,Northern Ireland,nation,28/03/2020,11.4
+N92000002,Northern Ireland,nation,27/03/2020,10
+N92000002,Northern Ireland,nation,26/03/2020,8.7
+N92000002,Northern Ireland,nation,25/03/2020,7.4
+N92000002,Northern Ireland,nation,24/03/2020,5.8
+N92000002,Northern Ireland,nation,23/03/2020,5.1
+N92000002,Northern Ireland,nation,22/03/2020,4.4
+N92000002,Northern Ireland,nation,21/03/2020,3.9
+N92000002,Northern Ireland,nation,20/03/2020,3
+N92000002,Northern Ireland,nation,19/03/2020,3.1
+N92000002,Northern Ireland,nation,18/03/2020,2.6
+N92000002,Northern Ireland,nation,17/03/2020,2.4
+N92000002,Northern Ireland,nation,16/03/2020,1.9
+N92000002,Northern Ireland,nation,15/03/2020,1.7
+N92000002,Northern Ireland,nation,14/03/2020,1.4
+N92000002,Northern Ireland,nation,13/03/2020,1.2
+N92000002,Northern Ireland,nation,12/03/2020,0.8
+S92000003,Scotland,nation,26/07/2021,186
+S92000003,Scotland,nation,25/07/2021,194.5
+S92000003,Scotland,nation,24/07/2021,203.6
+S92000003,Scotland,nation,23/07/2021,222.1
+S92000003,Scotland,nation,22/07/2021,232.1
+S92000003,Scotland,nation,21/07/2021,236.8
+S92000003,Scotland,nation,20/07/2021,254.2
+S92000003,Scotland,nation,19/07/2021,271.2
+S92000003,Scotland,nation,18/07/2021,283.4
+S92000003,Scotland,nation,17/07/2021,289.1
+S92000003,Scotland,nation,16/07/2021,286.8
+S92000003,Scotland,nation,15/07/2021,308.2
+S92000003,Scotland,nation,14/07/2021,321.3
+S92000003,Scotland,nation,13/07/2021,342.6
+S92000003,Scotland,nation,12/07/2021,339.6
+S92000003,Scotland,nation,11/07/2021,343.9
+S92000003,Scotland,nation,10/07/2021,356.3
+S92000003,Scotland,nation,09/07/2021,373.1
+S92000003,Scotland,nation,08/07/2021,384.3
+S92000003,Scotland,nation,07/07/2021,410.5
+S92000003,Scotland,nation,06/07/2021,412.1
+S92000003,Scotland,nation,05/07/2021,425.9
+S92000003,Scotland,nation,04/07/2021,442.6
+S92000003,Scotland,nation,03/07/2021,441
+S92000003,Scotland,nation,02/07/2021,436
+S92000003,Scotland,nation,01/07/2021,398
+S92000003,Scotland,nation,30/06/2021,375.4
+S92000003,Scotland,nation,29/06/2021,358.6
+S92000003,Scotland,nation,28/06/2021,341.2
+S92000003,Scotland,nation,27/06/2021,304
+S92000003,Scotland,nation,26/06/2021,277.7
+S92000003,Scotland,nation,25/06/2021,247.9
+S92000003,Scotland,nation,24/06/2021,233.4
+S92000003,Scotland,nation,23/06/2021,202.6
+S92000003,Scotland,nation,22/06/2021,168.9
+S92000003,Scotland,nation,21/06/2021,147.1
+S92000003,Scotland,nation,20/06/2021,138.1
+S92000003,Scotland,nation,19/06/2021,135
+S92000003,Scotland,nation,18/06/2021,131.7
+S92000003,Scotland,nation,17/06/2021,134.6
+S92000003,Scotland,nation,16/06/2021,123.9
+S92000003,Scotland,nation,15/06/2021,121.7
+S92000003,Scotland,nation,14/06/2021,116.6
+S92000003,Scotland,nation,13/06/2021,114.4
+S92000003,Scotland,nation,12/06/2021,109.7
+S92000003,Scotland,nation,11/06/2021,106.5
+S92000003,Scotland,nation,10/06/2021,104.5
+S92000003,Scotland,nation,09/06/2021,106.3
+S92000003,Scotland,nation,08/06/2021,100.2
+S92000003,Scotland,nation,07/06/2021,96.2
+S92000003,Scotland,nation,06/06/2021,93.5
+S92000003,Scotland,nation,05/06/2021,88.9
+S92000003,Scotland,nation,04/06/2021,83.9
+S92000003,Scotland,nation,03/06/2021,77.4
+S92000003,Scotland,nation,02/06/2021,70.6
+S92000003,Scotland,nation,01/06/2021,68.2
+S92000003,Scotland,nation,31/05/2021,65.3
+S92000003,Scotland,nation,30/05/2021,62.1
+S92000003,Scotland,nation,29/05/2021,59.4
+S92000003,Scotland,nation,28/05/2021,55.5
+S92000003,Scotland,nation,27/05/2021,51.3
+S92000003,Scotland,nation,26/05/2021,50.7
+S92000003,Scotland,nation,25/05/2021,47.9
+S92000003,Scotland,nation,24/05/2021,47
+S92000003,Scotland,nation,23/05/2021,44.2
+S92000003,Scotland,nation,22/05/2021,42.7
+S92000003,Scotland,nation,21/05/2021,43.5
+S92000003,Scotland,nation,20/05/2021,39.8
+S92000003,Scotland,nation,19/05/2021,36.8
+S92000003,Scotland,nation,18/05/2021,35.9
+S92000003,Scotland,nation,17/05/2021,35.4
+S92000003,Scotland,nation,16/05/2021,35.5
+S92000003,Scotland,nation,15/05/2021,33.8
+S92000003,Scotland,nation,14/05/2021,30.4
+S92000003,Scotland,nation,13/05/2021,30.8
+S92000003,Scotland,nation,12/05/2021,31
+S92000003,Scotland,nation,11/05/2021,26.2
+S92000003,Scotland,nation,10/05/2021,24.4
+S92000003,Scotland,nation,09/05/2021,23.8
+S92000003,Scotland,nation,08/05/2021,22.8
+S92000003,Scotland,nation,07/05/2021,21.9
+S92000003,Scotland,nation,06/05/2021,21.1
+S92000003,Scotland,nation,05/05/2021,19.1
+S92000003,Scotland,nation,04/05/2021,21.3
+S92000003,Scotland,nation,03/05/2021,21.2
+S92000003,Scotland,nation,02/05/2021,21.4
+S92000003,Scotland,nation,01/05/2021,21.9
+S92000003,Scotland,nation,30/04/2021,22
+S92000003,Scotland,nation,29/04/2021,23.2
+S92000003,Scotland,nation,28/04/2021,24.1
+S92000003,Scotland,nation,27/04/2021,25.4
+S92000003,Scotland,nation,26/04/2021,26.2
+S92000003,Scotland,nation,25/04/2021,27.9
+S92000003,Scotland,nation,24/04/2021,28.5
+S92000003,Scotland,nation,23/04/2021,29.1
+S92000003,Scotland,nation,22/04/2021,28.2
+S92000003,Scotland,nation,21/04/2021,28.3
+S92000003,Scotland,nation,20/04/2021,28.4
+S92000003,Scotland,nation,19/04/2021,29.2
+S92000003,Scotland,nation,18/04/2021,28.6
+S92000003,Scotland,nation,17/04/2021,29.3
+S92000003,Scotland,nation,16/04/2021,30.6
+S92000003,Scotland,nation,15/04/2021,32.1
+S92000003,Scotland,nation,14/04/2021,34.4
+S92000003,Scotland,nation,13/04/2021,34.6
+S92000003,Scotland,nation,12/04/2021,35.3
+S92000003,Scotland,nation,11/04/2021,36.2
+S92000003,Scotland,nation,10/04/2021,37.9
+S92000003,Scotland,nation,09/04/2021,40
+S92000003,Scotland,nation,08/04/2021,42.4
+S92000003,Scotland,nation,07/04/2021,43
+S92000003,Scotland,nation,06/04/2021,47.6
+S92000003,Scotland,nation,05/04/2021,50.4
+S92000003,Scotland,nation,04/04/2021,52.3
+S92000003,Scotland,nation,03/04/2021,53.8
+S92000003,Scotland,nation,02/04/2021,56.8
+S92000003,Scotland,nation,01/04/2021,59.2
+S92000003,Scotland,nation,31/03/2021,64.7
+S92000003,Scotland,nation,30/03/2021,67.4
+S92000003,Scotland,nation,29/03/2021,69
+S92000003,Scotland,nation,28/03/2021,69.1
+S92000003,Scotland,nation,27/03/2021,71.1
+S92000003,Scotland,nation,26/03/2021,69.7
+S92000003,Scotland,nation,25/03/2021,71.8
+S92000003,Scotland,nation,24/03/2021,70.4
+S92000003,Scotland,nation,23/03/2021,69.2
+S92000003,Scotland,nation,22/03/2021,71
+S92000003,Scotland,nation,21/03/2021,72.8
+S92000003,Scotland,nation,20/03/2021,71.9
+S92000003,Scotland,nation,19/03/2021,74.7
+S92000003,Scotland,nation,18/03/2021,75.2
+S92000003,Scotland,nation,17/03/2021,74.6
+S92000003,Scotland,nation,16/03/2021,75.8
+S92000003,Scotland,nation,15/03/2021,73.4
+S92000003,Scotland,nation,14/03/2021,74.2
+S92000003,Scotland,nation,13/03/2021,72.5
+S92000003,Scotland,nation,12/03/2021,70.9
+S92000003,Scotland,nation,11/03/2021,67.6
+S92000003,Scotland,nation,10/03/2021,65.9
+S92000003,Scotland,nation,09/03/2021,63.2
+S92000003,Scotland,nation,08/03/2021,64.6
+S92000003,Scotland,nation,07/03/2021,62.5
+S92000003,Scotland,nation,06/03/2021,65.8
+S92000003,Scotland,nation,05/03/2021,65.3
+S92000003,Scotland,nation,04/03/2021,66.8
+S92000003,Scotland,nation,03/03/2021,71.7
+S92000003,Scotland,nation,02/03/2021,76.4
+S92000003,Scotland,nation,01/03/2021,78.5
+S92000003,Scotland,nation,28/02/2021,84.5
+S92000003,Scotland,nation,27/02/2021,89.1
+S92000003,Scotland,nation,26/02/2021,94.2
+S92000003,Scotland,nation,25/02/2021,99.8
+S92000003,Scotland,nation,24/02/2021,98.3
+S92000003,Scotland,nation,23/02/2021,104.2
+S92000003,Scotland,nation,22/02/2021,106.3
+S92000003,Scotland,nation,21/02/2021,103.5
+S92000003,Scotland,nation,20/02/2021,104.9
+S92000003,Scotland,nation,19/02/2021,106.8
+S92000003,Scotland,nation,18/02/2021,105.8
+S92000003,Scotland,nation,17/02/2021,108.4
+S92000003,Scotland,nation,16/02/2021,102.6
+S92000003,Scotland,nation,15/02/2021,103.5
+S92000003,Scotland,nation,14/02/2021,110.3
+S92000003,Scotland,nation,13/02/2021,104.4
+S92000003,Scotland,nation,12/02/2021,104.2
+S92000003,Scotland,nation,11/02/2021,105.4
+S92000003,Scotland,nation,10/02/2021,111.2
+S92000003,Scotland,nation,09/02/2021,114.4
+S92000003,Scotland,nation,08/02/2021,113.2
+S92000003,Scotland,nation,07/02/2021,111.8
+S92000003,Scotland,nation,06/02/2021,119.5
+S92000003,Scotland,nation,05/02/2021,121.3
+S92000003,Scotland,nation,04/02/2021,126
+S92000003,Scotland,nation,03/02/2021,127
+S92000003,Scotland,nation,02/02/2021,133.4
+S92000003,Scotland,nation,01/02/2021,138.7
+S92000003,Scotland,nation,31/01/2021,137
+S92000003,Scotland,nation,30/01/2021,140.5
+S92000003,Scotland,nation,29/01/2021,146.2
+S92000003,Scotland,nation,28/01/2021,152.2
+S92000003,Scotland,nation,27/01/2021,160.1
+S92000003,Scotland,nation,26/01/2021,166.1
+S92000003,Scotland,nation,25/01/2021,168.2
+S92000003,Scotland,nation,24/01/2021,180.6
+S92000003,Scotland,nation,23/01/2021,183.3
+S92000003,Scotland,nation,22/01/2021,191.5
+S92000003,Scotland,nation,21/01/2021,203.9
+S92000003,Scotland,nation,20/01/2021,205.2
+S92000003,Scotland,nation,19/01/2021,210.6
+S92000003,Scotland,nation,18/01/2021,223.6
+S92000003,Scotland,nation,17/01/2021,230
+S92000003,Scotland,nation,16/01/2021,239.8
+S92000003,Scotland,nation,15/01/2021,241.9
+S92000003,Scotland,nation,14/01/2021,244.6
+S92000003,Scotland,nation,13/01/2021,261.9
+S92000003,Scotland,nation,12/01/2021,263.5
+S92000003,Scotland,nation,11/01/2021,275.5
+S92000003,Scotland,nation,10/01/2021,277.7
+S92000003,Scotland,nation,09/01/2021,288.5
+S92000003,Scotland,nation,08/01/2021,293.4
+S92000003,Scotland,nation,07/01/2021,297.7
+S92000003,Scotland,nation,06/01/2021,297.2
+S92000003,Scotland,nation,05/01/2021,297.3
+S92000003,Scotland,nation,04/01/2021,285.7
+S92000003,Scotland,nation,03/01/2021,268.5
+S92000003,Scotland,nation,02/01/2021,236.9
+S92000003,Scotland,nation,01/01/2021,218.9
+S92000003,Scotland,nation,31/12/2020,193.7
+S92000003,Scotland,nation,30/12/2020,169.8
+S92000003,Scotland,nation,29/12/2020,154.1
+S92000003,Scotland,nation,28/12/2020,143.5
+S92000003,Scotland,nation,27/12/2020,153.4
+S92000003,Scotland,nation,26/12/2020,156.9
+S92000003,Scotland,nation,25/12/2020,146.3
+S92000003,Scotland,nation,24/12/2020,138.6
+S92000003,Scotland,nation,23/12/2020,130.3
+S92000003,Scotland,nation,22/12/2020,121.1
+S92000003,Scotland,nation,21/12/2020,112.5
+S92000003,Scotland,nation,20/12/2020,98.4
+S92000003,Scotland,nation,19/12/2020,95.9
+S92000003,Scotland,nation,18/12/2020,105
+S92000003,Scotland,nation,17/12/2020,109.7
+S92000003,Scotland,nation,16/12/2020,111
+S92000003,Scotland,nation,15/12/2020,114.8
+S92000003,Scotland,nation,14/12/2020,112
+S92000003,Scotland,nation,13/12/2020,111
+S92000003,Scotland,nation,12/12/2020,108.1
+S92000003,Scotland,nation,11/12/2020,102.9
+S92000003,Scotland,nation,10/12/2020,102.2
+S92000003,Scotland,nation,09/12/2020,102.7
+S92000003,Scotland,nation,08/12/2020,103.7
+S92000003,Scotland,nation,07/12/2020,104.8
+S92000003,Scotland,nation,06/12/2020,99.2
+S92000003,Scotland,nation,05/12/2020,101.1
+S92000003,Scotland,nation,04/12/2020,101.3
+S92000003,Scotland,nation,03/12/2020,101.3
+S92000003,Scotland,nation,02/12/2020,106.2
+S92000003,Scotland,nation,01/12/2020,104.9
+S92000003,Scotland,nation,30/11/2020,105.2
+S92000003,Scotland,nation,29/11/2020,115.8
+S92000003,Scotland,nation,28/11/2020,117.6
+S92000003,Scotland,nation,27/11/2020,119.4
+S92000003,Scotland,nation,26/11/2020,120.3
+S92000003,Scotland,nation,25/11/2020,117.8
+S92000003,Scotland,nation,24/11/2020,124.9
+S92000003,Scotland,nation,23/11/2020,133.6
+S92000003,Scotland,nation,22/11/2020,129.4
+S92000003,Scotland,nation,21/11/2020,135.1
+S92000003,Scotland,nation,20/11/2020,139.3
+S92000003,Scotland,nation,19/11/2020,145.6
+S92000003,Scotland,nation,18/11/2020,147.8
+S92000003,Scotland,nation,17/11/2020,147.7
+S92000003,Scotland,nation,16/11/2020,140.1
+S92000003,Scotland,nation,15/11/2020,143.7
+S92000003,Scotland,nation,14/11/2020,142.9
+S92000003,Scotland,nation,13/11/2020,151.6
+S92000003,Scotland,nation,12/11/2020,146.4
+S92000003,Scotland,nation,11/11/2020,146.5
+S92000003,Scotland,nation,10/11/2020,149.7
+S92000003,Scotland,nation,09/11/2020,152.7
+S92000003,Scotland,nation,08/11/2020,153.4
+S92000003,Scotland,nation,07/11/2020,154
+S92000003,Scotland,nation,06/11/2020,145
+S92000003,Scotland,nation,05/11/2020,148.8
+S92000003,Scotland,nation,04/11/2020,147.2
+S92000003,Scotland,nation,03/11/2020,143
+S92000003,Scotland,nation,02/11/2020,149
+S92000003,Scotland,nation,01/11/2020,152.1
+S92000003,Scotland,nation,31/10/2020,154.9
+S92000003,Scotland,nation,30/10/2020,161
+S92000003,Scotland,nation,29/10/2020,163.2
+S92000003,Scotland,nation,28/10/2020,173.9
+S92000003,Scotland,nation,27/10/2020,183.7
+S92000003,Scotland,nation,26/10/2020,186.1
+S92000003,Scotland,nation,25/10/2020,183.7
+S92000003,Scotland,nation,24/10/2020,165.7
+S92000003,Scotland,nation,23/10/2020,160.8
+S92000003,Scotland,nation,22/10/2020,157
+S92000003,Scotland,nation,21/10/2020,150.4
+S92000003,Scotland,nation,20/10/2020,144.7
+S92000003,Scotland,nation,19/10/2020,141.8
+S92000003,Scotland,nation,18/10/2020,141.3
+S92000003,Scotland,nation,17/10/2020,153
+S92000003,Scotland,nation,16/10/2020,150.1
+S92000003,Scotland,nation,15/10/2020,151
+S92000003,Scotland,nation,14/10/2020,145.1
+S92000003,Scotland,nation,13/10/2020,138.2
+S92000003,Scotland,nation,12/10/2020,129.1
+S92000003,Scotland,nation,11/10/2020,124.3
+S92000003,Scotland,nation,10/10/2020,120.6
+S92000003,Scotland,nation,09/10/2020,116.2
+S92000003,Scotland,nation,08/10/2020,107.5
+S92000003,Scotland,nation,07/10/2020,101
+S92000003,Scotland,nation,06/10/2020,93.4
+S92000003,Scotland,nation,05/10/2020,93.5
+S92000003,Scotland,nation,04/10/2020,84.8
+S92000003,Scotland,nation,03/10/2020,77.2
+S92000003,Scotland,nation,02/10/2020,76.3
+S92000003,Scotland,nation,01/10/2020,72.3
+S92000003,Scotland,nation,30/09/2020,68.6
+S92000003,Scotland,nation,29/09/2020,65.8
+S92000003,Scotland,nation,28/09/2020,58.1
+S92000003,Scotland,nation,27/09/2020,58.7
+S92000003,Scotland,nation,26/09/2020,56.9
+S92000003,Scotland,nation,25/09/2020,50.2
+S92000003,Scotland,nation,24/09/2020,43.7
+S92000003,Scotland,nation,23/09/2020,40.5
+S92000003,Scotland,nation,22/09/2020,36.5
+S92000003,Scotland,nation,21/09/2020,34.4
+S92000003,Scotland,nation,20/09/2020,31
+S92000003,Scotland,nation,19/09/2020,31
+S92000003,Scotland,nation,18/09/2020,28.6
+S92000003,Scotland,nation,17/09/2020,28.1
+S92000003,Scotland,nation,16/09/2020,25.7
+S92000003,Scotland,nation,15/09/2020,23.7
+S92000003,Scotland,nation,14/09/2020,22.1
+S92000003,Scotland,nation,13/09/2020,23.5
+S92000003,Scotland,nation,12/09/2020,22.8
+S92000003,Scotland,nation,11/09/2020,21.3
+S92000003,Scotland,nation,10/09/2020,21
+S92000003,Scotland,nation,09/09/2020,20
+S92000003,Scotland,nation,08/09/2020,19.9
+S92000003,Scotland,nation,07/09/2020,19.5
+S92000003,Scotland,nation,06/09/2020,19.7
+S92000003,Scotland,nation,05/09/2020,18.2
+S92000003,Scotland,nation,04/09/2020,17.2
+S92000003,Scotland,nation,03/09/2020,15.2
+S92000003,Scotland,nation,02/09/2020,14.6
+S92000003,Scotland,nation,01/09/2020,13
+S92000003,Scotland,nation,31/08/2020,11
+S92000003,Scotland,nation,30/08/2020,9.3
+S92000003,Scotland,nation,29/08/2020,8.5
+S92000003,Scotland,nation,28/08/2020,9.2
+S92000003,Scotland,nation,27/08/2020,9.6
+S92000003,Scotland,nation,26/08/2020,9.7
+S92000003,Scotland,nation,25/08/2020,9.4
+S92000003,Scotland,nation,24/08/2020,9.5
+S92000003,Scotland,nation,23/08/2020,8.8
+S92000003,Scotland,nation,22/08/2020,8
+S92000003,Scotland,nation,21/08/2020,6.7
+S92000003,Scotland,nation,20/08/2020,6.6
+S92000003,Scotland,nation,19/08/2020,6.1
+S92000003,Scotland,nation,18/08/2020,6
+S92000003,Scotland,nation,17/08/2020,6.1
+S92000003,Scotland,nation,16/08/2020,6.1
+S92000003,Scotland,nation,15/08/2020,6.2
+S92000003,Scotland,nation,14/08/2020,6.4
+S92000003,Scotland,nation,13/08/2020,6
+S92000003,Scotland,nation,12/08/2020,6.3
+S92000003,Scotland,nation,11/08/2020,6.6
+S92000003,Scotland,nation,10/08/2020,6.1
+S92000003,Scotland,nation,09/08/2020,5.9
+S92000003,Scotland,nation,08/08/2020,5.6
+S92000003,Scotland,nation,07/08/2020,4.8
+S92000003,Scotland,nation,06/08/2020,4.6
+S92000003,Scotland,nation,05/08/2020,3.7
+S92000003,Scotland,nation,04/08/2020,2.9
+S92000003,Scotland,nation,03/08/2020,2.6
+S92000003,Scotland,nation,02/08/2020,2.3
+S92000003,Scotland,nation,01/08/2020,1.8
+S92000003,Scotland,nation,31/07/2020,2
+S92000003,Scotland,nation,30/07/2020,1.8
+S92000003,Scotland,nation,29/07/2020,1.8
+S92000003,Scotland,nation,28/07/2020,1.5
+S92000003,Scotland,nation,27/07/2020,1.9
+S92000003,Scotland,nation,26/07/2020,1.9
+S92000003,Scotland,nation,25/07/2020,2.3
+S92000003,Scotland,nation,24/07/2020,2.2
+S92000003,Scotland,nation,23/07/2020,2.1
+S92000003,Scotland,nation,22/07/2020,2
+S92000003,Scotland,nation,21/07/2020,1.9
+S92000003,Scotland,nation,20/07/2020,1.6
+S92000003,Scotland,nation,19/07/2020,1.6
+S92000003,Scotland,nation,18/07/2020,1.5
+S92000003,Scotland,nation,17/07/2020,1.2
+S92000003,Scotland,nation,16/07/2020,1.3
+S92000003,Scotland,nation,15/07/2020,1.2
+S92000003,Scotland,nation,14/07/2020,1.2
+S92000003,Scotland,nation,13/07/2020,1.2
+S92000003,Scotland,nation,12/07/2020,1.2
+S92000003,Scotland,nation,11/07/2020,1
+S92000003,Scotland,nation,10/07/2020,1
+S92000003,Scotland,nation,09/07/2020,0.9
+S92000003,Scotland,nation,08/07/2020,0.9
+S92000003,Scotland,nation,07/07/2020,0.9
+S92000003,Scotland,nation,06/07/2020,1.1
+S92000003,Scotland,nation,05/07/2020,1.1
+S92000003,Scotland,nation,04/07/2020,1.1
+S92000003,Scotland,nation,03/07/2020,1.2
+S92000003,Scotland,nation,02/07/2020,1.2
+S92000003,Scotland,nation,01/07/2020,1.2
+S92000003,Scotland,nation,30/06/2020,1.3
+S92000003,Scotland,nation,29/06/2020,1.3
+S92000003,Scotland,nation,28/06/2020,1.5
+S92000003,Scotland,nation,27/06/2020,1.8
+S92000003,Scotland,nation,26/06/2020,2
+S92000003,Scotland,nation,25/06/2020,2.2
+S92000003,Scotland,nation,24/06/2020,2.3
+S92000003,Scotland,nation,23/06/2020,2.5
+S92000003,Scotland,nation,22/06/2020,2.6
+S92000003,Scotland,nation,21/06/2020,2.8
+S92000003,Scotland,nation,20/06/2020,2.8
+S92000003,Scotland,nation,19/06/2020,2.7
+S92000003,Scotland,nation,18/06/2020,2.7
+S92000003,Scotland,nation,17/06/2020,2.8
+S92000003,Scotland,nation,16/06/2020,2.7
+S92000003,Scotland,nation,15/06/2020,2.7
+S92000003,Scotland,nation,14/06/2020,2.5
+S92000003,Scotland,nation,13/06/2020,2.3
+S92000003,Scotland,nation,12/06/2020,2.3
+S92000003,Scotland,nation,11/06/2020,2.4
+S92000003,Scotland,nation,10/06/2020,2.9
+S92000003,Scotland,nation,09/06/2020,3.3
+S92000003,Scotland,nation,08/06/2020,4
+S92000003,Scotland,nation,07/06/2020,4
+S92000003,Scotland,nation,06/06/2020,4
+S92000003,Scotland,nation,05/06/2020,4.7
+S92000003,Scotland,nation,04/06/2020,4.9
+S92000003,Scotland,nation,03/06/2020,4.8
+S92000003,Scotland,nation,02/06/2020,5.2
+S92000003,Scotland,nation,01/06/2020,4.8
+S92000003,Scotland,nation,31/05/2020,5.5
+S92000003,Scotland,nation,30/05/2020,6.2
+S92000003,Scotland,nation,29/05/2020,6.6
+S92000003,Scotland,nation,28/05/2020,7.9
+S92000003,Scotland,nation,27/05/2020,9
+S92000003,Scotland,nation,26/05/2020,9.7
+S92000003,Scotland,nation,25/05/2020,10.3
+S92000003,Scotland,nation,24/05/2020,10.3
+S92000003,Scotland,nation,23/05/2020,10.9
+S92000003,Scotland,nation,22/05/2020,13
+S92000003,Scotland,nation,21/05/2020,13.5
+S92000003,Scotland,nation,20/05/2020,15
+S92000003,Scotland,nation,19/05/2020,16.3
+S92000003,Scotland,nation,18/05/2020,17.7
+S92000003,Scotland,nation,17/05/2020,19.2
+S92000003,Scotland,nation,16/05/2020,20.9
+S92000003,Scotland,nation,15/05/2020,20.3
+S92000003,Scotland,nation,14/05/2020,21.8
+S92000003,Scotland,nation,13/05/2020,22.3
+S92000003,Scotland,nation,12/05/2020,24.3
+S92000003,Scotland,nation,11/05/2020,24.9
+S92000003,Scotland,nation,10/05/2020,25.4
+S92000003,Scotland,nation,09/05/2020,25.2
+S92000003,Scotland,nation,08/05/2020,27.4
+S92000003,Scotland,nation,07/05/2020,28.8
+S92000003,Scotland,nation,06/05/2020,30.7
+S92000003,Scotland,nation,05/05/2020,31.4
+S92000003,Scotland,nation,04/05/2020,31.9
+S92000003,Scotland,nation,03/05/2020,32.5
+S92000003,Scotland,nation,02/05/2020,34.3
+S92000003,Scotland,nation,01/05/2020,35.8
+S92000003,Scotland,nation,30/04/2020,35.6
+S92000003,Scotland,nation,29/04/2020,36.5
+S92000003,Scotland,nation,28/04/2020,37.5
+S92000003,Scotland,nation,27/04/2020,37.9
+S92000003,Scotland,nation,26/04/2020,39.1
+S92000003,Scotland,nation,25/04/2020,40.8
+S92000003,Scotland,nation,24/04/2020,41.9
+S92000003,Scotland,nation,23/04/2020,42.2
+S92000003,Scotland,nation,22/04/2020,41.9
+S92000003,Scotland,nation,21/04/2020,42.4
+S92000003,Scotland,nation,20/04/2020,43.6
+S92000003,Scotland,nation,19/04/2020,41.6
+S92000003,Scotland,nation,18/04/2020,40.8
+S92000003,Scotland,nation,17/04/2020,39.1
+S92000003,Scotland,nation,16/04/2020,39.3
+S92000003,Scotland,nation,15/04/2020,40
+S92000003,Scotland,nation,14/04/2020,39
+S92000003,Scotland,nation,13/04/2020,38.5
+S92000003,Scotland,nation,12/04/2020,40.4
+S92000003,Scotland,nation,11/04/2020,41.1
+S92000003,Scotland,nation,10/04/2020,41.6
+S92000003,Scotland,nation,09/04/2020,43.1
+S92000003,Scotland,nation,08/04/2020,41.3
+S92000003,Scotland,nation,07/04/2020,40.9
+S92000003,Scotland,nation,06/04/2020,43.9
+S92000003,Scotland,nation,05/04/2020,42.5
+S92000003,Scotland,nation,04/04/2020,38.4
+S92000003,Scotland,nation,03/04/2020,35.5
+S92000003,Scotland,nation,02/04/2020,31.3
+S92000003,Scotland,nation,01/04/2020,29.1
+S92000003,Scotland,nation,31/03/2020,25.8
+S92000003,Scotland,nation,30/03/2020,19.5
+S92000003,Scotland,nation,29/03/2020,17.7
+S92000003,Scotland,nation,28/03/2020,16
+S92000003,Scotland,nation,27/03/2020,13.5
+S92000003,Scotland,nation,26/03/2020,11.5
+S92000003,Scotland,nation,25/03/2020,9
+S92000003,Scotland,nation,24/03/2020,7.1
+S92000003,Scotland,nation,23/03/2020,6
+S92000003,Scotland,nation,22/03/2020,4.8
+S92000003,Scotland,nation,21/03/2020,4.6
+S92000003,Scotland,nation,20/03/2020,4.3
+S92000003,Scotland,nation,19/03/2020,3.8
+S92000003,Scotland,nation,18/03/2020,3.5
+S92000003,Scotland,nation,17/03/2020,3.1
+S92000003,Scotland,nation,16/03/2020,2.7
+S92000003,Scotland,nation,15/03/2020,2.5
+S92000003,Scotland,nation,14/03/2020,1.9
+S92000003,Scotland,nation,13/03/2020,1.4
+S92000003,Scotland,nation,12/03/2020,1
+S92000003,Scotland,nation,11/03/2020,0.6
+S92000003,Scotland,nation,10/03/2020,0.5
+S92000003,Scotland,nation,09/03/2020,0.4
+S92000003,Scotland,nation,08/03/2020,0.3
+W92000004,Wales,nation,26/07/2021,169.1
+W92000004,Wales,nation,25/07/2021,198.4
+W92000004,Wales,nation,24/07/2021,194.4
+W92000004,Wales,nation,23/07/2021,194.4
+W92000004,Wales,nation,22/07/2021,204.8
+W92000004,Wales,nation,21/07/2021,209.5
+W92000004,Wales,nation,20/07/2021,215.6
+W92000004,Wales,nation,19/07/2021,221.4
+W92000004,Wales,nation,18/07/2021,194
+W92000004,Wales,nation,17/07/2021,180.9
+W92000004,Wales,nation,16/07/2021,180.9
+W92000004,Wales,nation,15/07/2021,167.3
+W92000004,Wales,nation,14/07/2021,162.3
+W92000004,Wales,nation,13/07/2021,147.3
+W92000004,Wales,nation,12/07/2021,146.1
+W92000004,Wales,nation,11/07/2021,148.2
+W92000004,Wales,nation,10/07/2021,143
+W92000004,Wales,nation,09/07/2021,143
+W92000004,Wales,nation,08/07/2021,140.3
+W92000004,Wales,nation,07/07/2021,133.3
+W92000004,Wales,nation,06/07/2021,128.5
+W92000004,Wales,nation,05/07/2021,115.3
+W92000004,Wales,nation,04/07/2021,96.7
+W92000004,Wales,nation,03/07/2021,93
+W92000004,Wales,nation,02/07/2021,93
+W92000004,Wales,nation,01/07/2021,85.5
+W92000004,Wales,nation,30/06/2021,84.2
+W92000004,Wales,nation,29/06/2021,74.7
+W92000004,Wales,nation,28/06/2021,71.3
+W92000004,Wales,nation,27/06/2021,65.4
+W92000004,Wales,nation,26/06/2021,57.8
+W92000004,Wales,nation,25/06/2021,57.8
+W92000004,Wales,nation,24/06/2021,52.3
+W92000004,Wales,nation,23/06/2021,42.8
+W92000004,Wales,nation,22/06/2021,40.6
+W92000004,Wales,nation,21/06/2021,38.1
+W92000004,Wales,nation,20/06/2021,30.6
+W92000004,Wales,nation,19/06/2021,28.7
+W92000004,Wales,nation,18/06/2021,28.7
+W92000004,Wales,nation,17/06/2021,27.2
+W92000004,Wales,nation,16/06/2021,26.4
+W92000004,Wales,nation,15/06/2021,29
+W92000004,Wales,nation,14/06/2021,26.6
+W92000004,Wales,nation,13/06/2021,21.1
+W92000004,Wales,nation,12/06/2021,20.4
+W92000004,Wales,nation,11/06/2021,20.4
+W92000004,Wales,nation,10/06/2021,18.9
+W92000004,Wales,nation,09/06/2021,16.9
+W92000004,Wales,nation,08/06/2021,12.4
+W92000004,Wales,nation,07/06/2021,14.7
+W92000004,Wales,nation,06/06/2021,12.3
+W92000004,Wales,nation,05/06/2021,10.4
+W92000004,Wales,nation,04/06/2021,10.4
+W92000004,Wales,nation,03/06/2021,9.1
+W92000004,Wales,nation,02/06/2021,9.4
+W92000004,Wales,nation,01/06/2021,7.7
+W92000004,Wales,nation,31/05/2021,5.3
+W92000004,Wales,nation,30/05/2021,8.5
+W92000004,Wales,nation,29/05/2021,9
+W92000004,Wales,nation,28/05/2021,9
+W92000004,Wales,nation,27/05/2021,8.9
+W92000004,Wales,nation,26/05/2021,8.5
+W92000004,Wales,nation,25/05/2021,9
+W92000004,Wales,nation,24/05/2021,9.4
+W92000004,Wales,nation,23/05/2021,9.1
+W92000004,Wales,nation,22/05/2021,9.3
+W92000004,Wales,nation,21/05/2021,9.3
+W92000004,Wales,nation,20/05/2021,10.1
+W92000004,Wales,nation,19/05/2021,10.6
+W92000004,Wales,nation,18/05/2021,9.9
+W92000004,Wales,nation,17/05/2021,9.8
+W92000004,Wales,nation,16/05/2021,10.2
+W92000004,Wales,nation,15/05/2021,10.2
+W92000004,Wales,nation,14/05/2021,10.2
+W92000004,Wales,nation,13/05/2021,10
+W92000004,Wales,nation,12/05/2021,9.2
+W92000004,Wales,nation,11/05/2021,10.2
+W92000004,Wales,nation,10/05/2021,11.4
+W92000004,Wales,nation,09/05/2021,8.1
+W92000004,Wales,nation,08/05/2021,8.8
+W92000004,Wales,nation,07/05/2021,8.8
+W92000004,Wales,nation,06/05/2021,8.5
+W92000004,Wales,nation,05/05/2021,9.6
+W92000004,Wales,nation,04/05/2021,9
+W92000004,Wales,nation,03/05/2021,8
+W92000004,Wales,nation,02/05/2021,11.1
+W92000004,Wales,nation,01/05/2021,10.5
+W92000004,Wales,nation,30/04/2021,10.5
+W92000004,Wales,nation,29/04/2021,11.2
+W92000004,Wales,nation,28/04/2021,11
+W92000004,Wales,nation,27/04/2021,12
+W92000004,Wales,nation,26/04/2021,12.6
+W92000004,Wales,nation,25/04/2021,12.8
+W92000004,Wales,nation,24/04/2021,13.8
+W92000004,Wales,nation,23/04/2021,13.8
+W92000004,Wales,nation,22/04/2021,13.4
+W92000004,Wales,nation,21/04/2021,14.8
+W92000004,Wales,nation,20/04/2021,14.7
+W92000004,Wales,nation,19/04/2021,15.2
+W92000004,Wales,nation,18/04/2021,13.6
+W92000004,Wales,nation,17/04/2021,12.3
+W92000004,Wales,nation,16/04/2021,16.4
+W92000004,Wales,nation,15/04/2021,18.5
+W92000004,Wales,nation,14/04/2021,17.8
+W92000004,Wales,nation,13/04/2021,18.4
+W92000004,Wales,nation,12/04/2021,20.2
+W92000004,Wales,nation,11/04/2021,24.6
+W92000004,Wales,nation,10/04/2021,22.9
+W92000004,Wales,nation,09/04/2021,21.8
+W92000004,Wales,nation,08/04/2021,18.2
+W92000004,Wales,nation,07/04/2021,21.6
+W92000004,Wales,nation,06/04/2021,20.9
+W92000004,Wales,nation,05/04/2021,19.9
+W92000004,Wales,nation,04/04/2021,17.8
+W92000004,Wales,nation,03/04/2021,23.2
+W92000004,Wales,nation,02/04/2021,26.6
+W92000004,Wales,nation,01/04/2021,32.6
+W92000004,Wales,nation,31/03/2021,33.9
+W92000004,Wales,nation,30/03/2021,37
+W92000004,Wales,nation,29/03/2021,38.1
+W92000004,Wales,nation,28/03/2021,38.9
+W92000004,Wales,nation,27/03/2021,39.6
+W92000004,Wales,nation,26/03/2021,39.9
+W92000004,Wales,nation,25/03/2021,40.2
+W92000004,Wales,nation,24/03/2021,42.4
+W92000004,Wales,nation,23/03/2021,42
+W92000004,Wales,nation,22/03/2021,42.5
+W92000004,Wales,nation,21/03/2021,45.6
+W92000004,Wales,nation,20/03/2021,46.2
+W92000004,Wales,nation,19/03/2021,46.3
+W92000004,Wales,nation,18/03/2021,46
+W92000004,Wales,nation,17/03/2021,42.7
+W92000004,Wales,nation,16/03/2021,45.3
+W92000004,Wales,nation,15/03/2021,46
+W92000004,Wales,nation,14/03/2021,43.4
+W92000004,Wales,nation,13/03/2021,41.3
+W92000004,Wales,nation,12/03/2021,40.8
+W92000004,Wales,nation,11/03/2021,42.1
+W92000004,Wales,nation,10/03/2021,44.4
+W92000004,Wales,nation,09/03/2021,43.8
+W92000004,Wales,nation,08/03/2021,44
+W92000004,Wales,nation,07/03/2021,44.9
+W92000004,Wales,nation,06/03/2021,47.9
+W92000004,Wales,nation,05/03/2021,48
+W92000004,Wales,nation,04/03/2021,50.5
+W92000004,Wales,nation,03/03/2021,51.9
+W92000004,Wales,nation,02/03/2021,52.8
+W92000004,Wales,nation,01/03/2021,57.4
+W92000004,Wales,nation,28/02/2021,61.4
+W92000004,Wales,nation,27/02/2021,64.3
+W92000004,Wales,nation,26/02/2021,69.5
+W92000004,Wales,nation,25/02/2021,76.6
+W92000004,Wales,nation,24/02/2021,75.9
+W92000004,Wales,nation,23/02/2021,80.3
+W92000004,Wales,nation,22/02/2021,79
+W92000004,Wales,nation,21/02/2021,80.4
+W92000004,Wales,nation,20/02/2021,82.2
+W92000004,Wales,nation,19/02/2021,83.4
+W92000004,Wales,nation,18/02/2021,85.8
+W92000004,Wales,nation,17/02/2021,89.6
+W92000004,Wales,nation,16/02/2021,88
+W92000004,Wales,nation,15/02/2021,90.4
+W92000004,Wales,nation,14/02/2021,98.2
+W92000004,Wales,nation,13/02/2021,100.3
+W92000004,Wales,nation,12/02/2021,109
+W92000004,Wales,nation,11/02/2021,102.4
+W92000004,Wales,nation,10/02/2021,106.7
+W92000004,Wales,nation,09/02/2021,110.9
+W92000004,Wales,nation,08/02/2021,119.2
+W92000004,Wales,nation,07/02/2021,119.8
+W92000004,Wales,nation,06/02/2021,124.4
+W92000004,Wales,nation,05/02/2021,126.4
+W92000004,Wales,nation,04/02/2021,131
+W92000004,Wales,nation,03/02/2021,136.1
+W92000004,Wales,nation,02/02/2021,138.7
+W92000004,Wales,nation,01/02/2021,137.3
+W92000004,Wales,nation,31/01/2021,145
+W92000004,Wales,nation,30/01/2021,151.1
+W92000004,Wales,nation,29/01/2021,161.9
+W92000004,Wales,nation,28/01/2021,170
+W92000004,Wales,nation,27/01/2021,184.2
+W92000004,Wales,nation,26/01/2021,207.9
+W92000004,Wales,nation,25/01/2021,224.9
+W92000004,Wales,nation,24/01/2021,239.5
+W92000004,Wales,nation,23/01/2021,251.4
+W92000004,Wales,nation,22/01/2021,253
+W92000004,Wales,nation,21/01/2021,284.9
+W92000004,Wales,nation,20/01/2021,300.5
+W92000004,Wales,nation,19/01/2021,308.4
+W92000004,Wales,nation,18/01/2021,315.6
+W92000004,Wales,nation,17/01/2021,330.2
+W92000004,Wales,nation,16/01/2021,345.7
+W92000004,Wales,nation,15/01/2021,385.1
+W92000004,Wales,nation,14/01/2021,406.7
+W92000004,Wales,nation,13/01/2021,409
+W92000004,Wales,nation,12/01/2021,431.4
+W92000004,Wales,nation,11/01/2021,454.8
+W92000004,Wales,nation,10/01/2021,458.1
+W92000004,Wales,nation,09/01/2021,532.7
+W92000004,Wales,nation,08/01/2021,545.1
+W92000004,Wales,nation,07/01/2021,466.2
+W92000004,Wales,nation,06/01/2021,469.8
+W92000004,Wales,nation,05/01/2021,471.1
+W92000004,Wales,nation,04/01/2021,485.1
+W92000004,Wales,nation,03/01/2021,497
+W92000004,Wales,nation,02/01/2021,501.2
+W92000004,Wales,nation,01/01/2021,484.4
+W92000004,Wales,nation,31/12/2020,484.4
+W92000004,Wales,nation,30/12/2020,494.9
+W92000004,Wales,nation,29/12/2020,518.1
+W92000004,Wales,nation,28/12/2020,526.1
+W92000004,Wales,nation,27/12/2020,535.3
+W92000004,Wales,nation,26/12/2020,477.9
+W92000004,Wales,nation,25/12/2020,504.2
+W92000004,Wales,nation,24/12/2020,593
+W92000004,Wales,nation,23/12/2020,888.2
+W92000004,Wales,nation,22/12/2020,809.5
+W92000004,Wales,nation,21/12/2020,741.4
+W92000004,Wales,nation,20/12/2020,699.1
+W92000004,Wales,nation,19/12/2020,625
+W92000004,Wales,nation,18/12/2020,606.9
+W92000004,Wales,nation,17/12/2020,589
+W92000004,Wales,nation,16/12/2020,287.6
+W92000004,Wales,nation,15/12/2020,341.8
+W92000004,Wales,nation,14/12/2020,347
+W92000004,Wales,nation,13/12/2020,372.2
+W92000004,Wales,nation,12/12/2020,433
+W92000004,Wales,nation,11/12/2020,406
+W92000004,Wales,nation,10/12/2020,381.8
+W92000004,Wales,nation,09/12/2020,366.1
+W92000004,Wales,nation,08/12/2020,342.1
+W92000004,Wales,nation,07/12/2020,338.5
+W92000004,Wales,nation,06/12/2020,299.9
+W92000004,Wales,nation,05/12/2020,270.9
+W92000004,Wales,nation,04/12/2020,264.6
+W92000004,Wales,nation,03/12/2020,253
+W92000004,Wales,nation,02/12/2020,245.9
+W92000004,Wales,nation,01/12/2020,227.8
+W92000004,Wales,nation,30/11/2020,225.5
+W92000004,Wales,nation,29/11/2020,228.3
+W92000004,Wales,nation,28/11/2020,222.1
+W92000004,Wales,nation,27/11/2020,208.5
+W92000004,Wales,nation,26/11/2020,205.8
+W92000004,Wales,nation,25/11/2020,199.4
+W92000004,Wales,nation,24/11/2020,190.8
+W92000004,Wales,nation,23/11/2020,194.3
+W92000004,Wales,nation,22/11/2020,194.3
+W92000004,Wales,nation,21/11/2020,211
+W92000004,Wales,nation,20/11/2020,208.3
+W92000004,Wales,nation,19/11/2020,201.3
+W92000004,Wales,nation,18/11/2020,195.5
+W92000004,Wales,nation,17/11/2020,204.7
+W92000004,Wales,nation,16/11/2020,196.5
+W92000004,Wales,nation,15/11/2020,197.7
+W92000004,Wales,nation,14/11/2020,179
+W92000004,Wales,nation,13/11/2020,179.8
+W92000004,Wales,nation,12/11/2020,197.4
+W92000004,Wales,nation,11/11/2020,210.3
+W92000004,Wales,nation,10/11/2020,218.9
+W92000004,Wales,nation,09/11/2020,240.4
+W92000004,Wales,nation,08/11/2020,263
+W92000004,Wales,nation,07/11/2020,265.4
+W92000004,Wales,nation,06/11/2020,276.3
+W92000004,Wales,nation,05/11/2020,288.5
+W92000004,Wales,nation,04/11/2020,291.8
+W92000004,Wales,nation,03/11/2020,298.5
+W92000004,Wales,nation,02/11/2020,301.3
+W92000004,Wales,nation,01/11/2020,285.8
+W92000004,Wales,nation,31/10/2020,294.8
+W92000004,Wales,nation,30/10/2020,295.6
+W92000004,Wales,nation,29/10/2020,264.6
+W92000004,Wales,nation,28/10/2020,257
+W92000004,Wales,nation,27/10/2020,242.6
+W92000004,Wales,nation,26/10/2020,240.8
+W92000004,Wales,nation,25/10/2020,223.9
+W92000004,Wales,nation,24/10/2020,219
+W92000004,Wales,nation,23/10/2020,198.4
+W92000004,Wales,nation,22/10/2020,205.3
+W92000004,Wales,nation,21/10/2020,192.4
+W92000004,Wales,nation,20/10/2020,191.9
+W92000004,Wales,nation,19/10/2020,179.7
+W92000004,Wales,nation,18/10/2020,175.3
+W92000004,Wales,nation,17/10/2020,160
+W92000004,Wales,nation,16/10/2020,158.5
+W92000004,Wales,nation,15/10/2020,151.7
+W92000004,Wales,nation,14/10/2020,148.9
+W92000004,Wales,nation,13/10/2020,142.8
+W92000004,Wales,nation,12/10/2020,132
+W92000004,Wales,nation,11/10/2020,135.5
+W92000004,Wales,nation,10/10/2020,134.4
+W92000004,Wales,nation,09/10/2020,132.7
+W92000004,Wales,nation,08/10/2020,123.1
+W92000004,Wales,nation,07/10/2020,115.5
+W92000004,Wales,nation,06/10/2020,103.9
+W92000004,Wales,nation,05/10/2020,102.1
+W92000004,Wales,nation,04/10/2020,92.2
+W92000004,Wales,nation,03/10/2020,90
+W92000004,Wales,nation,02/10/2020,83.5
+W92000004,Wales,nation,01/10/2020,79
+W92000004,Wales,nation,30/09/2020,77.4
+W92000004,Wales,nation,29/09/2020,77.4
+W92000004,Wales,nation,28/09/2020,74.7
+W92000004,Wales,nation,27/09/2020,73.1
+W92000004,Wales,nation,26/09/2020,67.9
+W92000004,Wales,nation,25/09/2020,62.9
+W92000004,Wales,nation,24/09/2020,58.6
+W92000004,Wales,nation,23/09/2020,52.9
+W92000004,Wales,nation,22/09/2020,46.9
+W92000004,Wales,nation,21/09/2020,41.5
+W92000004,Wales,nation,20/09/2020,39.8
+W92000004,Wales,nation,19/09/2020,38.7
+W92000004,Wales,nation,18/09/2020,37.1
+W92000004,Wales,nation,17/09/2020,35.5
+W92000004,Wales,nation,16/09/2020,33.4
+W92000004,Wales,nation,15/09/2020,32.3
+W92000004,Wales,nation,14/09/2020,33.6
+W92000004,Wales,nation,13/09/2020,32
+W92000004,Wales,nation,12/09/2020,30
+W92000004,Wales,nation,11/09/2020,27.2
+W92000004,Wales,nation,10/09/2020,24.6
+W92000004,Wales,nation,09/09/2020,23
+W92000004,Wales,nation,08/09/2020,19.1
+W92000004,Wales,nation,07/09/2020,15.9
+W92000004,Wales,nation,06/09/2020,12.9
+W92000004,Wales,nation,05/09/2020,11.6
+W92000004,Wales,nation,04/09/2020,10.4
+W92000004,Wales,nation,03/09/2020,9.9
+W92000004,Wales,nation,02/09/2020,9.4
+W92000004,Wales,nation,01/09/2020,9.2
+W92000004,Wales,nation,31/08/2020,8.4
+W92000004,Wales,nation,30/08/2020,7.8
+W92000004,Wales,nation,29/08/2020,6.7
+W92000004,Wales,nation,28/08/2020,6.5
+W92000004,Wales,nation,27/08/2020,6.5
+W92000004,Wales,nation,26/08/2020,6
+W92000004,Wales,nation,25/08/2020,5.6
+W92000004,Wales,nation,24/08/2020,5.4
+W92000004,Wales,nation,23/08/2020,5.3
+W92000004,Wales,nation,22/08/2020,5.2
+W92000004,Wales,nation,21/08/2020,5
+W92000004,Wales,nation,20/08/2020,4.5
+W92000004,Wales,nation,19/08/2020,4.3
+W92000004,Wales,nation,18/08/2020,3.9
+W92000004,Wales,nation,17/08/2020,3.6
+W92000004,Wales,nation,16/08/2020,3.5
+W92000004,Wales,nation,15/08/2020,3.8
+W92000004,Wales,nation,14/08/2020,3.5
+W92000004,Wales,nation,13/08/2020,3.5
+W92000004,Wales,nation,12/08/2020,3.5
+W92000004,Wales,nation,11/08/2020,3.7
+W92000004,Wales,nation,10/08/2020,4
+W92000004,Wales,nation,09/08/2020,4.3
+W92000004,Wales,nation,08/08/2020,4.7
+W92000004,Wales,nation,07/08/2020,4.8
+W92000004,Wales,nation,06/08/2020,5
+W92000004,Wales,nation,05/08/2020,4.9
+W92000004,Wales,nation,04/08/2020,5.4
+W92000004,Wales,nation,03/08/2020,5.4
+W92000004,Wales,nation,02/08/2020,6.1
+W92000004,Wales,nation,01/08/2020,5.6
+W92000004,Wales,nation,31/07/2020,5.9
+W92000004,Wales,nation,30/07/2020,6.5
+W92000004,Wales,nation,29/07/2020,7.5
+W92000004,Wales,nation,28/07/2020,7.2
+W92000004,Wales,nation,27/07/2020,7.3
+W92000004,Wales,nation,26/07/2020,6.3
+W92000004,Wales,nation,25/07/2020,6.6
+W92000004,Wales,nation,24/07/2020,6
+W92000004,Wales,nation,23/07/2020,5
+W92000004,Wales,nation,22/07/2020,4.3
+W92000004,Wales,nation,21/07/2020,4.1
+W92000004,Wales,nation,20/07/2020,4.1
+W92000004,Wales,nation,19/07/2020,4
+W92000004,Wales,nation,18/07/2020,3.5
+W92000004,Wales,nation,17/07/2020,3.4
+W92000004,Wales,nation,16/07/2020,3.2
+W92000004,Wales,nation,15/07/2020,3.1
+W92000004,Wales,nation,14/07/2020,3
+W92000004,Wales,nation,13/07/2020,2.4
+W92000004,Wales,nation,12/07/2020,2.3
+W92000004,Wales,nation,11/07/2020,2.3
+W92000004,Wales,nation,10/07/2020,3.1
+W92000004,Wales,nation,09/07/2020,3.6
+W92000004,Wales,nation,08/07/2020,4.4
+W92000004,Wales,nation,07/07/2020,5
+W92000004,Wales,nation,06/07/2020,5.8
+W92000004,Wales,nation,05/07/2020,9.2
+W92000004,Wales,nation,04/07/2020,9.5
+W92000004,Wales,nation,03/07/2020,9.9
+W92000004,Wales,nation,02/07/2020,11.1
+W92000004,Wales,nation,01/07/2020,13.8
+W92000004,Wales,nation,30/06/2020,14.3
+W92000004,Wales,nation,29/06/2020,15.1
+W92000004,Wales,nation,28/06/2020,13.6
+W92000004,Wales,nation,27/06/2020,16
+W92000004,Wales,nation,26/06/2020,15.4
+W92000004,Wales,nation,25/06/2020,14.3
+W92000004,Wales,nation,24/06/2020,11.8
+W92000004,Wales,nation,23/06/2020,12
+W92000004,Wales,nation,22/06/2020,12.5
+W92000004,Wales,nation,21/06/2020,12.2
+W92000004,Wales,nation,20/06/2020,10.2
+W92000004,Wales,nation,19/06/2020,10.9
+W92000004,Wales,nation,18/06/2020,12.3
+W92000004,Wales,nation,17/06/2020,12.8
+W92000004,Wales,nation,16/06/2020,12.3
+W92000004,Wales,nation,15/06/2020,11.6
+W92000004,Wales,nation,14/06/2020,11
+W92000004,Wales,nation,13/06/2020,11
+W92000004,Wales,nation,12/06/2020,10.9
+W92000004,Wales,nation,11/06/2020,10.9
+W92000004,Wales,nation,10/06/2020,10
+W92000004,Wales,nation,09/06/2020,11.4
+W92000004,Wales,nation,08/06/2020,12.2
+W92000004,Wales,nation,07/06/2020,12.7
+W92000004,Wales,nation,06/06/2020,14.1
+W92000004,Wales,nation,05/06/2020,15.4
+W92000004,Wales,nation,04/06/2020,16.3
+W92000004,Wales,nation,03/06/2020,17.4
+W92000004,Wales,nation,02/06/2020,17.9
+W92000004,Wales,nation,01/06/2020,20.3
+W92000004,Wales,nation,31/05/2020,21.8
+W92000004,Wales,nation,30/05/2020,23.6
+W92000004,Wales,nation,29/05/2020,26.7
+W92000004,Wales,nation,28/05/2020,27.9
+W92000004,Wales,nation,27/05/2020,30.9
+W92000004,Wales,nation,26/05/2020,31.3
+W92000004,Wales,nation,25/05/2020,32.1
+W92000004,Wales,nation,24/05/2020,31.9
+W92000004,Wales,nation,23/05/2020,32.6
+W92000004,Wales,nation,22/05/2020,32.5
+W92000004,Wales,nation,21/05/2020,32.2
+W92000004,Wales,nation,20/05/2020,31
+W92000004,Wales,nation,19/05/2020,31.7
+W92000004,Wales,nation,18/05/2020,29.8
+W92000004,Wales,nation,17/05/2020,30.5
+W92000004,Wales,nation,16/05/2020,32.4
+W92000004,Wales,nation,15/05/2020,30.4
+W92000004,Wales,nation,14/05/2020,31.2
+W92000004,Wales,nation,13/05/2020,29.9
+W92000004,Wales,nation,12/05/2020,28.7
+W92000004,Wales,nation,11/05/2020,29.9
+W92000004,Wales,nation,10/05/2020,32.2
+W92000004,Wales,nation,09/05/2020,30.6
+W92000004,Wales,nation,08/05/2020,32.7
+W92000004,Wales,nation,07/05/2020,33
+W92000004,Wales,nation,06/05/2020,36
+W92000004,Wales,nation,05/05/2020,36.7
+W92000004,Wales,nation,04/05/2020,39.5
+W92000004,Wales,nation,03/05/2020,39.7
+W92000004,Wales,nation,02/05/2020,39.8
+W92000004,Wales,nation,01/05/2020,43.5
+W92000004,Wales,nation,30/04/2020,46.1
+W92000004,Wales,nation,29/04/2020,47.8
+W92000004,Wales,nation,28/04/2020,52.7
+W92000004,Wales,nation,27/04/2020,55
+W92000004,Wales,nation,26/04/2020,57.3
+W92000004,Wales,nation,25/04/2020,62.3
+W92000004,Wales,nation,24/04/2020,62.1
+W92000004,Wales,nation,23/04/2020,62.1
+W92000004,Wales,nation,22/04/2020,63.7
+W92000004,Wales,nation,21/04/2020,63.6
+W92000004,Wales,nation,20/04/2020,61.5
+W92000004,Wales,nation,19/04/2020,62.7
+W92000004,Wales,nation,18/04/2020,63.8
+W92000004,Wales,nation,17/04/2020,65.3
+W92000004,Wales,nation,16/04/2020,73.5
+W92000004,Wales,nation,15/04/2020,65
+W92000004,Wales,nation,14/04/2020,65.3
+W92000004,Wales,nation,13/04/2020,67
+W92000004,Wales,nation,12/04/2020,66.6
+W92000004,Wales,nation,11/04/2020,65.9
+W92000004,Wales,nation,10/04/2020,67.4
+W92000004,Wales,nation,09/04/2020,62.4
+W92000004,Wales,nation,08/04/2020,70.9
+W92000004,Wales,nation,07/04/2020,70.6
+W92000004,Wales,nation,06/04/2020,65
+W92000004,Wales,nation,05/04/2020,62
+W92000004,Wales,nation,04/04/2020,55.8
+W92000004,Wales,nation,03/04/2020,49
+W92000004,Wales,nation,02/04/2020,43.8
+W92000004,Wales,nation,01/04/2020,38.3
+W92000004,Wales,nation,31/03/2020,34.4
+W92000004,Wales,nation,30/03/2020,32.8
+W92000004,Wales,nation,29/03/2020,28.4
+W92000004,Wales,nation,28/03/2020,25.8
+W92000004,Wales,nation,27/03/2020,23.2
+W92000004,Wales,nation,26/03/2020,18.1
+W92000004,Wales,nation,25/03/2020,15.2
+W92000004,Wales,nation,24/03/2020,10.8
+W92000004,Wales,nation,23/03/2020,9.3
+W92000004,Wales,nation,22/03/2020,8
+W92000004,Wales,nation,21/03/2020,7
+W92000004,Wales,nation,20/03/2020,4.9
+W92000004,Wales,nation,19/03/2020,4.6
+W92000004,Wales,nation,18/03/2020,4.3
+W92000004,Wales,nation,17/03/2020,4.1
+W92000004,Wales,nation,16/03/2020,3.8
+W92000004,Wales,nation,15/03/2020,2.9
+W92000004,Wales,nation,14/03/2020,1.8
+W92000004,Wales,nation,13/03/2020,1.1
+W92000004,Wales,nation,12/03/2020,0.7
+W92000004,Wales,nation,11/03/2020,0.4
+W92000004,Wales,nation,10/03/2020,0.2
+W92000004,Wales,nation,09/03/2020,0.1
+W92000004,Wales,nation,08/03/2020,0
+W92000004,Wales,nation,07/03/2020,0
+W92000004,Wales,nation,06/03/2020,0
+W92000004,Wales,nation,05/03/2020,0.1
