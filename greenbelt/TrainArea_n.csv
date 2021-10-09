@@ -1,0 +1,159 @@
+lad19cd,lad19nm,Area_ha,GB_Name,Test
+E06000025,South Gloucestershire,23039.679,Bath and Bristol,7816039
+E06000040,Windsor and Maidenhead,16477.5468,London,11104272
+E07000007,Wycombe,15627.9166,London,5006759
+E07000214,Surrey Heath,4190.528,London,1519431
+E07000209,Guildford,22636.2181,London,14581085
+E07000216,Waverley,20868.3884,London,6314060
+E06000034,Thurrock,11671.6468,London,9071083
+E07000212,Runnymede,6133.5364,London,7670899
+E07000103,Watford,404.8041,London,1264770
+E07000098,Hertsmere,7987.123,London,1635687
+E09000010,Enfield,3070.8175,London,4620534
+E07000115,Tonbridge and Malling,17055.9306,London,5320709
+E07000110,Maidstone,527.5726,London,1525603
+E07000210,Mole Valley,19643.4237,London,12132690
+E09000018,Hounslow,1224.504,London,543176
+E07000070,Chelmsford,12826.6034,London,1602158
+E07000213,Spelthorne,3320.7447,London,4708798
+E07000238,Wychavon,8863.3178,Birmingham,2113464
+E07000078,Cheltenham,547.0877,Cheltenham and Gloucester,2722240
+E07000083,Tewkesbury,5533.1889,Cheltenham and Gloucester,829900
+E07000239,Wyre Forest,11217.7093,Birmingham,4860210
+E08000026,Coventry,1478.5092,Birmingham,227067
+E07000219,Nuneaton and Bedworth,3245.6455,Birmingham,595815
+E08000029,Solihull,11870.5758,Birmingham,8648283
+E07000177,Cherwell,8410.2568,Oxford,7217230
+E06000056,Central Bedfordshire,28218.0004,London,8104318
+E07000095,Broxbourne,3325.4751,London,3273294
+E07000072,Epping Forest,31676.7569,London,10627187
+E07000012,South Cambridgeshire,23224.5444,Cambridge,18565929
+E07000008,Cambridge,973.4236,Cambridge,36389
+E07000009,East Cambridgeshire,1901.3911,Cambridge,9781
+E07000242,East Hertfordshire,16441.2261,London,12142451
+E07000077,Uttlesford,3810.1399,London,1486596
+E06000050,Cheshire West and Chester,38879.5869,Merseyside and Greater Manchester,20082678
+E07000197,Stafford,9299.8157,Stoke-on-Trent,2718584
+E07000198,Staffordshire Moorlands,17426.5959,Stoke-on-Trent,9050127
+E06000049,Cheshire East,6527.197,Stoke-on-Trent,6105019
+E08000009,Trafford,3987.5934,Merseyside and Greater Manchester,3176892
+E08000007,Stockport,5859.9591,Merseyside and Greater Manchester,9673227
+E06000049,Cheshire East,33636.7869,Merseyside and Greater Manchester,18455094
+E08000015,Wirral,7334.477,Merseyside and Greater Manchester,7762403
+E08000004,Oldham,6256.5903,Merseyside and Greater Manchester,2356442
+E08000003,Manchester,1277.1496,Merseyside and Greater Manchester,3015113
+E08000030,Walsall,3944.9329,Birmingham,609755
+E08000018,Rotherham,20061.0758,South and West Yorkshire,6580202
+E08000019,Sheffield,9067.7802,South and West Yorkshire,3199106
+E07000173,Gedling,8797.3294,Derby and Nottingham,3765363
+E07000170,Ashfield,4524.9276,Derby and Nottingham,4369582
+E08000017,Doncaster,23258.5216,South and West Yorkshire,16082001
+E07000175,Newark and Sherwood,6280.8899,Derby and Nottingham,4735663
+E07000036,Erewash,7845.335,Derby and Nottingham,3720285
+E07000172,Broxtowe,4905.6137,Derby and Nottingham,1950293
+E06000018,Nottingham,736.6213,Derby and Nottingham,1625878
+E07000176,Rushcliffe,16250.5046,Derby and Nottingham,3929095
+E07000037,High Peak,3979.3911,Merseyside and Greater Manchester,6473806
+E07000194,Lichfield,15177.8897,Birmingham,6505101
+E07000121,Lancaster,1737.1183,"Carnforth, Lancaster and Morecambe",2248891
+E07000126,South Ribble,7618.0853,Merseyside and Greater Manchester,2369525
+E07000120,Hyndburn,3997.4393,Merseyside and Greater Manchester,1902587
+E07000118,Chorley,14559.8,Merseyside and Greater Manchester,7158429
+E07000128,Wyre,684.708,Blackpool,633850
+E06000009,Blackpool,71.976,Blackpool,400304
+E08000002,Bury,5923.165,Merseyside and Greater Manchester,3480258
+E07000125,Rossendale,3123.7341,Merseyside and Greater Manchester,1950068
+E07000122,Pendle,2044.6448,Merseyside and Greater Manchester,605569
+E07000127,West Lancashire,31034.4167,Merseyside and Greater Manchester,21679187
+E08000014,Sefton,7318.1383,Merseyside and Greater Manchester,6953463
+E08000005,Rochdale,9930.9523,Merseyside and Greater Manchester,3122055
+E08000032,Bradford,23899.6473,South and West Yorkshire,12189313
+E08000036,Wakefield,23511.9893,South and West Yorkshire,7865084
+E06000014,York,22411.6266,York,9389095
+E07000165,Harrogate,1348.0686,York,543285
+E07000165,Harrogate,13153.3261,South and West Yorkshire,6941326
+E07000169,Selby,17436.4738,South and West Yorkshire,18000892
+E08000035,Leeds,33959.7701,South and West Yorkshire,6697191
+E06000057,Northumberland,43565.2006,Tyne and Wear,19042984
+E08000037,Gateshead,8510.9662,Tyne and Wear,7371285
+E08000021,Newcastle upon Tyne,3969.9763,Tyne and Wear,3073792
+E06000047,County Durham,8715.9796,Tyne and Wear,1579883
+E08000023,South Tyneside,2352.6027,Tyne and Wear,2874440
+E08000022,North Tyneside,1660.1961,Tyne and Wear,2174637
+E08000024,Sunderland,3184.9409,Tyne and Wear,2424285
+E06000059,Dorset,24026.2575,"Bournemouth, Christchurch and Poole",2375365
+E06000058,"Bournemouth, Christchurch and Poole",5680.3187,"Bournemouth, Christchurch and Poole",797781
+E06000054,Wiltshire,6912.5198,Bath and Bristol,3957216
+E06000022,Bath and North East Somerset,24748.7284,Bath and Bristol,2633718
+E06000024,North Somerset,15543.8623,Bath and Bristol,811368
+E06000023,"Bristol, City of",604.5672,Bath and Bristol,50578
+E07000217,Woking,4023.4865,London,3618347
+E07000006,South Bucks,12344.1265,London,7980194
+E06000039,Slough,867.0399,London,193997
+E06000036,Bracknell Forest,3841.6788,London,15071
+E06000041,Wokingham,2904.9126,London,1773225
+E07000180,Vale of White Horse,8093.9257,Oxford,1538727
+E07000179,South Oxfordshire,15378.4941,Oxford,2006792
+E07000005,Chiltern,17379.1713,London,4749862
+E09000016,Havering,6073.6794,London,1282710
+E06000035,Medway,1335.2525,London,1018966
+E06000033,Southend-on-Sea,578.7132,London,961360
+E09000014,Haringey,60.6259,London,498880
+E09000031,Waltham Forest,840.6468,London,2970856
+E07000207,Elmbridge,5614.8517,London,6760156
+E09000017,Hillingdon,4868.3619,London,3366926
+E07000102,Three Rivers,6721.7578,London,4675052
+E09000003,Barnet,2384.0677,London,1934314
+E09000009,Ealing,308.7784,London,246189
+E09000015,Harrow,1088.1979,London,1460397
+E09000006,Bromley,7658.3809,London,2869762
+E09000026,Redbridge,1920.912,London,3244429
+E09000002,Barking and Dagenham,527.945,London,363285
+E09000008,Croydon,2190.201,London,4831930
+E07000111,Sevenoaks,34398.6099,London,21567081
+E07000116,Tunbridge Wells,7130.3068,London,3088034
+E07000109,Gravesham,7598.8914,London,4553571
+E09000011,Greenwich,0.5389,London,1540
+E09000029,Sutton,604.3538,London,681202
+E07000208,Epsom and Ewell,1560.9204,London,2523094
+E07000069,Castle Point,2500.7708,London,724319
+E09000021,Kingston upon Thames,638.6892,London,856091
+E07000075,Rochford,11820.5562,London,2520740
+E07000066,Basildon,6900.4282,London,2342257
+E09000027,Richmond upon Thames,134.2743,London,455437
+E09000025,Newham,78.8345,London,318559
+E06000051,Shropshire,24495.1684,Birmingham,5947749
+E07000234,Bromsgrove,19307.5174,Birmingham,6182248
+E08000027,Dudley,1766.6545,Birmingham,195506
+E07000222,Warwick,19078.5796,Birmingham,4562661
+E08000028,Sandwell,823.1191,Birmingham,517037
+E08000025,Birmingham,3732.5967,Birmingham,2757978
+E07000096,Dacorum,10634.7535,London,3551415
+E07000004,Aylesbury Vale,4797.3181,London,1007013
+E07000178,Oxford,1266.4911,Oxford,301078
+E07000181,West Oxfordshire,1609.7279,Oxford,590303
+E07000221,Stratford-on-Avon,22368.2854,Birmingham,17030985
+E07000218,North Warwickshire,17287.1441,Birmingham,1527589
+E07000241,Welwyn Hatfield,10249.3926,London,5333942
+E07000073,Harlow,634.7583,London,245630
+E07000099,North Hertfordshire,14247.533,London,2221111
+E07000243,Stevenage,177.973,London,11568
+E07000196,South Staffordshire,32121.4966,Birmingham,2307001
+E07000192,Cannock Chase,4825.3046,Birmingham,880935
+E07000195,Newcastle-under-Lyme,9427.2929,Stoke-on-Trent,200712
+E06000007,Warrington,11379.0519,Merseyside and Greater Manchester,2563036
+E08000006,Salford,3372.6223,Merseyside and Greater Manchester,2076912
+E08000013,St. Helens,8877.1846,Merseyside and Greater Manchester,6488840
+E08000010,Wigan,10648.3054,Merseyside and Greater Manchester,4802641
+E08000011,Knowsley,4229.5153,Merseyside and Greater Manchester,667640
+E06000006,Halton,2486.9158,Merseyside and Greater Manchester,39415
+E08000012,Liverpool,529.7701,Merseyside and Greater Manchester,47641
+E07000038,North East Derbyshire,10363.7433,South and West Yorkshire,186762
+E07000199,Tamworth,210.3727,Birmingham,67322
+E07000032,Amber Valley,8654.4732,Derby and Nottingham,6307698
+E08000001,Bolton,7228.1602,Merseyside and Greater Manchester,7421780
+E07000124,Ribble Valley,1725.8214,Merseyside and Greater Manchester,1601190
+E07000117,Burnley,1051.8788,Merseyside and Greater Manchester,1661211
+E06000008,Blackburn with Darwen,5279.0845,Merseyside and Greater Manchester,4255515
+E08000033,Calderdale,22832.2758,South and West Yorkshire,3810270
+E08000034,Kirklees,25007.6091,South and West Yorkshire,17029924
